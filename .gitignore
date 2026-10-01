@@ -2,7 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
-outputs/videos/
 logs/
 node_modules/
 
