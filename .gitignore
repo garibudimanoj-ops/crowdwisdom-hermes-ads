@@ -5,3 +5,5 @@ __pycache__/
 outputs/videos/
 logs/
 node_modules/
+
+.playwright-mcp/
