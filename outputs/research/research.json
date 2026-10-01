@@ -1,0 +1,599 @@
+{
+  "research_metadata": {
+    "source_insights_file": "outputs/insights/marketing_insights.json",
+    "total_queries": 9,
+    "total_results": 45,
+    "tavily_available": true,
+    "exa_available": true,
+    "ads_analyzed": 20,
+    "single_ad_observation": true,
+    "limitation": "Upstream marketing evidence came from a single relevant advertisement. Research findings should not be generalized to market-wide patterns without additional evidence."
+  },
+  "research_findings": [
+    {
+      "query": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+      "query_type": "pain_point",
+      "query_source": "marketing_insights",
+      "single_ad_observation": true,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "why I stopped following trading signals ( you should stop too )",
+          "url": "https://medium.com/@ekeneokoye092/why-i-stopped-following-trading-signals-you-should-stop-too-022ca455583c",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:40.578447+00:00",
+          "query": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+          "query_type": "pain_point",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Copy Trading Unveiled: The Regulatory Need for Investor ...",
+          "url": "https://repository.nls.ac.in/cgi/viewcontent.cgi?article=1371&context=nlsblr",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:40.578477+00:00",
+          "query": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+          "query_type": "pain_point",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "TRADING SIGNALS: THE DARK TRUTH AND SCAMS",
+          "url": "https://www.youtube.com/watch?v=Xvjc51a9DvA",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:40.578486+00:00",
+          "query": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+          "query_type": "pain_point",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Lesson I learned. Never follow signals. : r/Forex",
+          "url": "https://www.reddit.com/r/Forex/comments/1khefj3/lesson_i_learned_never_follow_signals",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:40.578492+00:00",
+          "query": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+          "query_type": "pain_point",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "What are Signal Providers & Forex Trading Signals? / Axi",
+          "url": "https://www.axi.com/int/blog/education/signal-providers",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:40.578497+00:00",
+          "query": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+          "query_type": "pain_point",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+      "query_type": "icp",
+      "query_source": "marketing_insights",
+      "single_ad_observation": false,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Experts warn of scams targeting inexperienced traders",
+          "url": "https://www.8newsnow.com/news/local-news/experts-warn-of-scams-targeting-inexperienced-traders",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:43.834830+00:00",
+          "query": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Experts warn of scams targeting inexperienced traders",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/experts-warn-scams-targeting-inexperienced-173853471.html",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:43.834850+00:00",
+          "query": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Got Leads?  1 ad account, & only 1 business. I know a thing ...",
+          "url": "https://www.instagram.com/reel/DNeYwXFtSy2",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:43.834855+00:00",
+          "query": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "so our community needs to stay alert. If you ever receive a ...",
+          "url": "https://www.instagram.com/p/DU8g7xpjRwV",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:43.834859+00:00",
+          "query": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "8 Best Online Trading Platforms of 2026 | Money",
+          "url": "https://money.com/best-online-stock-trading-platforms",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:43.834863+00:00",
+          "query": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+      "query_type": "icp",
+      "query_source": "marketing_insights",
+      "single_ad_observation": false,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Stop falling for scam forex channels with fake traders! ...",
+          "url": "https://www.instagram.com/reel/DX9dl2dtfXj",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:45.784770+00:00",
+          "query": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "why I stopped following trading signals ( you should stop too )",
+          "url": "https://medium.com/@ekeneokoye092/why-i-stopped-following-trading-signals-you-should-stop-too-022ca455583c",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:45.784792+00:00",
+          "query": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Forex Signal Scams and Warnings 🛑",
+          "url": "https://www.youtube.com/watch?v=3M56FpR920c",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:45.784797+00:00",
+          "query": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Lesson I learned. Never follow signals. : r/Forex",
+          "url": "https://www.reddit.com/r/Forex/comments/1khefj3/lesson_i_learned_never_follow_signals",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:45.784801+00:00",
+          "query": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "FSCA’s first enforcement action for unauthorised trading signals – Moonstone Information Refinery",
+          "url": "https://www.moonstone.co.za/fscas-first-enforcement-action-for-unauthorised-trading-signals",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:45.784805+00:00",
+          "query": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+      "query_type": "icp",
+      "query_source": "marketing_insights",
+      "single_ad_observation": true,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Exclusive | Kalshi and the Weather Co. Join Forces on Climate-Prediction Trades - WSJ",
+          "url": "https://www.wsj.com/finance/kalshi-and-the-weather-co-join-forces-on-climate-trades-76b7e307",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:51.670286+00:00",
+          "query": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Prediction Markets; Public Interest Determinations",
+          "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11854/prediction-markets-public-interest-determinations",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:51.670308+00:00",
+          "query": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "How Cautious Consumers Are Fueling Streaming | The Trade Desk",
+          "url": "https://www.thetradedesk.com/insights/wallet-watch-2026-cautious-consumers-power-the-rise-of-ad-supported-streaming",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:51.670312+00:00",
+          "query": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Weather Powered Advertising Solutions & Predictive Marketing",
+          "url": "https://www.weathercompany.com/advertising",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:51.670316+00:00",
+          "query": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Traders Bet on Third Fed Cut in 2026 as Inflation Ebbs",
+          "url": "https://www.youtube.com/watch?v=6nS14iWnNwI",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:51.670320+00:00",
+          "query": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+      "query_type": "icp",
+      "query_source": "marketing_insights",
+      "single_ad_observation": true,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Funding Pips Launches New $200K Funded Account",
+          "url": "https://thegodfunded.com/en/news/funding-pips-launches-new-200k-funded-account",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:55.099383+00:00",
+          "query": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "FundingPips now offers $200K Account Sizes on both Zero ...",
+          "url": "https://www.instagram.com/p/DXMR5dADGhF?hl=en",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:55.099414+00:00",
+          "query": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "FundingPips Models Compared (Don't Choose Before Watching)",
+          "url": "https://www.youtube.com/watch?v=h1Vd1ykcyRw",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:55.099422+00:00",
+          "query": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "FundingPips now offers $200K Account Sizes on both Zero ...",
+          "url": "https://www.instagram.com/reel/DUIXiW9DFqn",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:55.099428+00:00",
+          "query": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "You can now access $200K Account Sizes on FundingPips ...",
+          "url": "https://www.instagram.com/reel/DU0yFrzjIgZ",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:54:55.099434+00:00",
+          "query": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+          "query_type": "icp",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+      "query_type": "hook_credibility",
+      "query_source": "marketing_insights",
+      "single_ad_observation": false,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Best-Loved Advertising Taglines",
+          "url": "https://www.forbes.com/2010/05/28/nike-bmw-amex-apple-cmo-network-best-advertising-taglines_slide_4.html",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:00.536041+00:00",
+          "query": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "(PDF) A Two-Step Flow of Influence?: Opinion-Leader ...",
+          "url": "https://www.researchgate.net/publication/242482327_A_Two-Step_Flow_of_Influence_Opinion-Leader_Campaigns_on_Climate_Change",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:00.536065+00:00",
+          "query": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Benefits of Two-Step Distribution for Lumber and Building Material Dealers | Building Products",
+          "url": "https://marketing.bpi.build/benefits-of-using-two-step-distribution-for-lumber-and-building-material-dealers",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:00.536071+00:00",
+          "query": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "2-Step Model: The New Direct Sales Strategy You Need ...",
+          "url": "https://www.servicequest.com/2-step-model-the-new-direct-sales-strategy-you-need",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:00.536075+00:00",
+          "query": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "UK Ad Net Zero Leadership Breakfast: Identifying and closing the action gaps in the industry.  | Ad Net Zero Limited",
+          "url": "https://adnetzero.com/uk-ad-net-zero-leadership-breakfast-identifying-and-closing-the-action-gaps-in-the-industry",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:00.536080+00:00",
+          "query": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+      "query_type": "hook_credibility",
+      "query_source": "marketing_insights",
+      "single_ad_observation": false,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Certified vs Verified: What Our Badges Mean",
+          "url": "https://www.consumermovingreviews.com/certified-vs-verified",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:04.991208+00:00",
+          "query": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Google Unifies Verified Badge for Local Services Ads",
+          "url": "https://www.linkedin.com/posts/w3eradigital_googleverified-localservicesads-businessverification-activity-7373276620394127360-F3Z9",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:04.991226+00:00",
+          "query": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "What is the Google Verified Badge for Advertisers?",
+          "url": "https://jsmtmedia.com/blog/what-is-the-google-verified-badge-for-advertisers",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:04.991232+00:00",
+          "query": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Trust Badge Website royalty-free images",
+          "url": "https://www.shutterstock.com/search/trust-badge-website",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:04.991235+00:00",
+          "query": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Google Verified (Formerly Google Guaranteed)",
+          "url": "https://www.primelsa.ai/post/google-guaranteed-badge-what-is-it-and-how-to-get-it",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:04.991239+00:00",
+          "query": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+      "query_type": "hook_credibility",
+      "query_source": "marketing_insights",
+      "single_ad_observation": true,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "About Kalshi - Company History & Founders Profile",
+          "url": "https://kalshi.com/about",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:07.317994+00:00",
+          "query": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "What Is Kalshi? How the Event Prediction Market Works. | Built In",
+          "url": "https://builtin.com/articles/what-is-kalshi",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:07.318024+00:00",
+          "query": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Kalshi says it's the first regulated exchange where people “ ...",
+          "url": "https://www.facebook.com/NewsNationNow/posts/kalshi-says-its-the-first-regulated-exchange-where-people-can-buy-and-sell-contr/676796371394050",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:07.318032+00:00",
+          "query": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Kalshi Review 2026: Comprehensive Event Contract Trading",
+          "url": "https://www.finder.com/stock-trading/kalshi-review",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:07.318037+00:00",
+          "query": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Kalshi",
+          "url": "https://en.wikipedia.org/wiki/Kalshi",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:07.318043+00:00",
+          "query": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    },
+    {
+      "query": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+      "query_type": "hook_credibility",
+      "query_source": "marketing_insights",
+      "single_ad_observation": true,
+      "confidence": "low",
+      "results": [
+        {
+          "title": "Fire Emoji Sticker Meaning: Why People Use  in Captions",
+          "url": "https://www.tiktok.com/@.13gg.k/video/7682610560642419989",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:12.583065+00:00",
+          "query": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "🔥 Fire Emoji | Meaning, Copy And Paste",
+          "url": "https://emojipedia.org/fire",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:12.583088+00:00",
+          "query": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Derron - Hi 👋🏿 We just reached 200k views on our ...",
+          "url": "https://www.facebook.com/flooddatrackstar/photos/hi-we-just-reached-200k-views-on-our-promotional-reel-were-constantly-fighting-f/10115623122085027",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:12.583094+00:00",
+          "query": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Schinny on Twitter",
+          "url": "https://twitter.com/ischinmann/status/596827948226838528",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:12.583098+00:00",
+          "query": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        },
+        {
+          "title": "Fire emoji",
+          "url": "https://twitter.com/FireEmoji",
+          "source": "Tavily",
+          "published_date": null,
+          "retrieved_at": "2026-09-26T09:55:12.583102+00:00",
+          "query": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+          "query_type": "hook_credibility",
+          "source_fact": true,
+          "model_interpretation": false
+        }
+      ],
+      "result_count": 5
+    }
+  ]
+}

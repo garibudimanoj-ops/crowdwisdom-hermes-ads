@@ -1,0 +1,193 @@
+{
+  "ready": true,
+  "checks": [
+    {
+      "name": "env_file",
+      "status": "pass",
+      "detail": ".env exists"
+    },
+    {
+      "name": "env:OPENROUTER_API_KEY",
+      "status": "pass",
+      "detail": "OPENROUTER_API_KEY is present"
+    },
+    {
+      "name": "env:APIFY_API_TOKEN",
+      "status": "pass",
+      "detail": "APIFY_API_TOKEN is present"
+    },
+    {
+      "name": "env:TAVILY_API_KEY",
+      "status": "pass",
+      "detail": "TAVILY_API_KEY is present"
+    },
+    {
+      "name": "env:EXA_API_KEY",
+      "status": "pass",
+      "detail": "EXA_API_KEY is present"
+    },
+    {
+      "name": "env:OPENROUTER_MODEL",
+      "status": "pass",
+      "detail": "OPENROUTER_MODEL is present"
+    },
+    {
+      "name": "env:OPENMONTAGE_PATH",
+      "status": "pass",
+      "detail": "OPENMONTAGE_PATH is present"
+    },
+    {
+      "name": "env:CROWDWISDOM_URL",
+      "status": "pass",
+      "detail": "CROWDWISDOM_URL is present"
+    },
+    {
+      "name": "python:pydantic",
+      "status": "pass",
+      "detail": "pydantic importable"
+    },
+    {
+      "name": "python:apify_client",
+      "status": "pass",
+      "detail": "apify_client importable"
+    },
+    {
+      "name": "python:fastapi",
+      "status": "pass",
+      "detail": "fastapi importable"
+    },
+    {
+      "name": "python:tenacity",
+      "status": "pass",
+      "detail": "tenacity importable"
+    },
+    {
+      "name": "python:dotenv",
+      "status": "pass",
+      "detail": "dotenv importable"
+    },
+    {
+      "name": "python:pytest",
+      "status": "pass",
+      "detail": "pytest importable"
+    },
+    {
+      "name": "executable:node",
+      "status": "pass",
+      "detail": "node found on PATH"
+    },
+    {
+      "name": "executable:npx",
+      "status": "pass",
+      "detail": "npx found on PATH"
+    },
+    {
+      "name": "executable:ffprobe",
+      "status": "pass",
+      "detail": "ffprobe found on PATH"
+    },
+    {
+      "name": "openmontage_composer",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\OpenMontage\\remotion-composer exists"
+    },
+    {
+      "name": "composer_index",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\OpenMontage\\remotion-composer\\src\\index.tsx exists"
+    },
+    {
+      "name": "composer_node_modules",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\OpenMontage\\remotion-composer\\node_modules exists"
+    },
+    {
+      "name": "output_dir:outputs/ads",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\ads exists"
+    },
+    {
+      "name": "output_dir:outputs/insights",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\insights exists"
+    },
+    {
+      "name": "output_dir:outputs/research",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\research exists"
+    },
+    {
+      "name": "output_dir:outputs/scripts",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\scripts exists"
+    },
+    {
+      "name": "output_dir:outputs/creative_review",
+      "status": "warning",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\creative_review does not exist (will be created on demand)",
+      "suggestion": "mkdir -p C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\creative_review"
+    },
+    {
+      "name": "output_dir:outputs/storyboards",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\storyboards exists"
+    },
+    {
+      "name": "output_dir:outputs/videos",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\videos exists"
+    },
+    {
+      "name": "output_dir:outputs/logs",
+      "status": "warning",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\logs does not exist (will be created on demand)",
+      "suggestion": "mkdir -p C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\logs"
+    },
+    {
+      "name": "output_dir:data/processed",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\data\\processed exists"
+    },
+    {
+      "name": "artifact:outputs/ads/ads.json",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\ads\\ads.json exists (433297 bytes)"
+    },
+    {
+      "name": "artifact:outputs/insights/marketing_insights.json",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\insights\\marketing_insights.json exists (7491 bytes)"
+    },
+    {
+      "name": "artifact:outputs/research/research.json",
+      "status": "pass",
+      "detail": "C:\\AI Projects\\crowdwisdom-hermes-ads\\outputs\\research\\research.json exists (10390 bytes)"
+    },
+    {
+      "name": "unique_data",
+      "status": "warning",
+      "detail": "data/unique_data directory exists but contains no JSON files — no unique data available"
+    },
+    {
+      "name": "manifest_readable",
+      "status": "pass",
+      "detail": "run_manifest.json is valid JSON"
+    },
+    {
+      "name": "status_artifact_readable",
+      "status": "pass",
+      "detail": "pipeline_status.json is valid JSON"
+    },
+    {
+      "name": "not_locked",
+      "status": "pass",
+      "detail": "No lock file present"
+    }
+  ],
+  "summary": {
+    "total": 36,
+    "pass": 33,
+    "warning": 3,
+    "fail": 0
+  }
+}

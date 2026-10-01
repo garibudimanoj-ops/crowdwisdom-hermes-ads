@@ -1,0 +1,230 @@
+{
+  "version": "1.0",
+  "project": "CrowdWisdom Trading Video Ads",
+  "generated_at": "2026-09-27T18:16:19.692134Z",
+  "source_plan": "outputs/visual_prompts/full_cinematography_plan.json",
+  "assets": [
+    {
+      "asset_id": "asset_001",
+      "scene_id": 1,
+      "asset_type": "video",
+      "source": "local",
+      "source_url": null,
+      "local_path": "outputs/assets/cinematic_dark.mp4",
+      "duration": 8.0,
+      "license": "local_project_asset",
+      "provenance": "Existing local project asset - dark cinematic footage",
+      "why_selected": "Dark cinematic environment suitable for trader-overload opening; 8s duration matches Scene 1 exactly; mood aligns with tense/anxious requirement"
+    },
+    {
+      "asset_id": "asset_002",
+      "scene_id": 1,
+      "asset_type": "video",
+      "source": "local",
+      "source_url": null,
+      "local_path": "outputs/assets/trader_test.mp4",
+      "duration": 8.0,
+      "license": "local_project_asset",
+      "provenance": "Existing local project asset - trader test footage",
+      "why_selected": "Trader footage as secondary option for Scene 1; provides human subject element alongside dark cinematic backdrop"
+    },
+    {
+      "asset_id": "asset_003",
+      "scene_id": 2,
+      "asset_type": "video",
+      "source": "local",
+      "source_url": null,
+      "local_path": null,
+      "duration": null,
+      "license": null,
+      "provenance": null,
+      "why_selected": null,
+      "missing": true,
+      "required_visuals": [
+        "trader's hand moving to toggle switch",
+        "slow pull back from hands to wide desk",
+        "split-screen monitors chaotic vs organized",
+        "CrowdWisdom panel UI push-in"
+      ],
+      "footage_queries": [
+        "trader hand toggle switch desk",
+        "split screen monitors chaos order",
+        "CrowdWisdom research panel UI"
+      ],
+      "missing_asset": true
+    },
+    {
+      "asset_id": "asset_004",
+      "scene_id": 3,
+      "asset_type": "video",
+      "source": "local",
+      "source_url": null,
+      "local_path": null,
+      "duration": null,
+      "license": null,
+      "provenance": null,
+      "why_selected": null,
+      "missing": true,
+      "required_visuals": [
+        "CrowdWisdom research panel with conviction consensus recency meters",
+        "static close-up panel with slow tilt upward",
+        "converging signal lines"
+      ],
+      "footage_queries": [
+        "CrowdWisdom research panel meters",
+        "data scoring visualization",
+        "signal lines converging"
+      ],
+      "missing_asset": true
+    },
+    {
+      "asset_id": "asset_005",
+      "scene_id": 4,
+      "asset_type": "video",
+      "source": "local",
+      "source_url": null,
+      "local_path": null,
+      "duration": null,
+      "license": null,
+      "provenance": null,
+      "why_selected": null,
+      "missing": true,
+      "required_visuals": [
+        "research card UI elements animating in",
+        "slow push-in on research card",
+        "shallow depth of field blurring background"
+      ],
+      "footage_queries": [
+        "research card UI interface",
+        "structured data card",
+        "analysis results display"
+      ],
+      "missing_asset": true
+    },
+    {
+      "asset_id": "asset_006",
+      "scene_id": 5,
+      "asset_type": "video",
+      "source": "Pexels",
+      "source_url": "https://www.pexels.com/video/focused-man-doing-paperwork-9464299/",
+      "local_path": "assets/scenes/scene_05/primary.mp4",
+      "duration": 29.4,
+      "license": "Pexels License",
+      "provenance": "Downloaded from Pexels: Focused man doing paperwork",
+      "why_selected": "Calm, professional businessman working at desk - fits resolved/confident ending"
+    }
+  ],
+  "scene_mapping": [
+    {
+      "scene_id": 1,
+      "primary_asset": "asset_001",
+      "secondary_assets": [
+        "asset_002"
+      ],
+      "fallback_asset": null
+    },
+    {
+      "scene_id": 2,
+      "primary_asset": null,
+      "secondary_assets": [],
+      "fallback_asset": null,
+      "missing_asset": true
+    },
+    {
+      "scene_id": 3,
+      "primary_asset": null,
+      "secondary_assets": [],
+      "fallback_asset": null,
+      "missing_asset": true
+    },
+    {
+      "scene_id": 4,
+      "primary_asset": null,
+      "secondary_assets": [],
+      "fallback_asset": null,
+      "missing_asset": true
+    },
+    {
+      "scene_id": 5,
+      "primary_asset": "asset_006",
+      "secondary_assets": [],
+      "fallback_asset": null,
+      "missing_asset": false
+    }
+  ],
+  "acquisition_metadata": [
+    {
+      "scene_id": 2,
+      "required_visuals": [
+        "trader's hand moving to toggle switch",
+        "slow pull back from close-up on hands to wide desk shot",
+        "left chaotic monitor flood and right organized CrowdWisdom panel",
+        "push-in on CrowdWisdom panel"
+      ],
+      "footage_queries": [
+        "trader hand toggle desk monitor",
+        "split screen chaos order comparison",
+        "CrowdWisdom panel interface"
+      ],
+      "duration_required": 10.0,
+      "tone": "transition from chaos to order",
+      "real_footage_required": true,
+      "product_ui_required": true,
+      "motion_graphics_required": true
+    },
+    {
+      "scene_id": 3,
+      "required_visuals": [
+        "CrowdWisdom research panel with conviction, consensus, recency meters",
+        "static close-up panel with slow tilt upward",
+        "converging signal lines"
+      ],
+      "footage_queries": [
+        "CrowdWisdom research panel",
+        "data scoring meters animation",
+        "signal lines converging visualization"
+      ],
+      "duration_required": 10.0,
+      "tone": "building, rhythmic",
+      "real_footage_required": true,
+      "product_ui_required": true,
+      "motion_graphics_required": true
+    },
+    {
+      "scene_id": 4,
+      "required_visuals": [
+        "research card UI elements animating in",
+        "slow push-in on research card",
+        "shallow depth of field blurring background"
+      ],
+      "footage_queries": [
+        "research card UI interface",
+        "structured data card",
+        "analysis results panel"
+      ],
+      "duration_required": 10.0,
+      "tone": "focused, confident",
+      "real_footage_required": true,
+      "product_ui_required": true,
+      "motion_graphics_required": true
+    },
+    {
+      "scene_id": 5,
+      "required_visuals": [
+        "CrowdWisdom logo and tagline",
+        "dark background with faint trader silhouette",
+        "static wide shot logo fade in",
+        "businessman working calmly at desk"
+      ],
+      "footage_queries": [
+        "focused man doing paperwork desk"
+      ],
+      "duration_required": 7.0,
+      "tone": "calm, resolved, confident",
+      "asset_status": "acquired_via_pexels_9464299",
+      "real_footage_required": false,
+      "product_ui_required": true,
+      "motion_graphics_required": true
+    }
+  ]
+}

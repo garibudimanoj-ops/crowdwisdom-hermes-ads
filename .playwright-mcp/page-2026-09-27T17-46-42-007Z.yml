@@ -1,0 +1,291 @@
+- generic [active] [ref=f44e1]:
+  - generic [ref=f44e3]:
+    - navigation [ref=f44e6]:
+      - link [ref=f44e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f44e13]:
+        - generic [ref=f44e14]:
+          - button "Photos" [ref=f44e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f44e24]
+          - button [ref=f44e26] [cursor=pointer]
+      - generic [ref=f44e30]:
+        - link "Explore" [ref=f44e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f44e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f44e39] [cursor=pointer]
+        - button "Join" [ref=f44e42] [cursor=pointer]
+    - main [ref=f44e45]:
+      - separator [ref=f44e46]
+      - generic [ref=f44e47]:
+        - main [ref=f44e48]:
+          - separator [ref=f44e49]
+          - generic [ref=f44e50]:
+            - generic [ref=f44e51]:
+              - link [ref=f44e52] [cursor=pointer]:
+                - /url: /@gabby-k/
+                - img "Monstera Production" [ref=f44e56]
+              - generic [ref=f44e57]:
+                - link [ref=f44e58] [cursor=pointer]:
+                  - /url: /@gabby-k/
+                  - heading "Monstera Production" [level=5] [ref=f44e59]
+                - paragraph [ref=f44e60]:
+                  - text: 7.7B views
+                  - generic [ref=f44e61]: •
+                  - text: 17M downloads
+            - generic [ref=f44e62]:
+              - link "Edit in Canva" [ref=f44e66] [cursor=pointer]:
+                - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F9464299%2F9464299-uhd_2732_1440_30fps.mp4&external-id=9464299
+              - generic [ref=f44e73]:
+                - button [ref=f44e74] [cursor=pointer]
+                - button "11" [ref=f44e78] [cursor=pointer]
+                - generic [ref=f44e83]:
+                  - link "Free download" [ref=f44e84] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/9464299/
+                  - button [ref=f44e88] [cursor=pointer]
+          - separator [ref=f44e93]
+        - generic [ref=f44e94]:
+          - region [ref=f44e103]
+          - generic [ref=f44e109]:
+            - link "Monstera Production Monstera Production Russian Photographer and Videomaker bolovtsova@gmail.com" [ref=f44e110] [cursor=pointer]:
+              - /url: /@gabby-k/
+              - img "Monstera Production" [ref=f44e114]
+              - generic [ref=f44e115]:
+                - heading "Monstera Production" [level=5] [ref=f44e116]
+                - paragraph [ref=f44e118]:
+                  - generic [ref=f44e119]: Russian Photographer and Videomaker bolovtsova@gmail.com
+            - button "Follow" [ref=f44e121] [cursor=pointer]
+          - generic [ref=f44e127]:
+            - generic [ref=f44e129]:
+              - generic [ref=f44e131]:
+                - paragraph [ref=f44e132]: License
+                - link [ref=f44e133] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f44e134]: Free
+              - generic [ref=f44e137]:
+                - paragraph [ref=f44e138]: Dimensions
+                - paragraph [ref=f44e139]: 4096x2160
+              - generic [ref=f44e140]:
+                - paragraph [ref=f44e141]: Aspect Ratio
+                - paragraph [ref=f44e142]: 256:135
+              - generic [ref=f44e143]:
+                - paragraph [ref=f44e144]: Duration
+                - paragraph [ref=f44e145]: 30:29
+              - generic [ref=f44e146]:
+                - paragraph [ref=f44e147]: Date
+                - paragraph [ref=f44e148]: Sep 6, 2021
+              - generic [ref=f44e149]:
+                - paragraph [ref=f44e150]: Downloads
+                - paragraph [ref=f44e151]: 1.2K
+              - generic [ref=f44e152]:
+                - paragraph [ref=f44e153]: Views
+                - paragraph [ref=f44e154]: 299.6K
+              - generic [ref=f44e155]:
+                - paragraph [ref=f44e156]: Likes
+                - paragraph [ref=f44e157]: "11"
+            - generic [ref=f44e160]:
+              - button "More info" [ref=f44e161] [cursor=pointer]
+              - button "Share" [ref=f44e165] [cursor=pointer]
+              - link "Report media" [ref=f44e169] [cursor=pointer]:
+                - /url: /report/?slug=focused-man-doing-paperwork-9464299
+          - generic [ref=f44e173]:
+            - paragraph [ref=f44e174]: Description
+            - heading "A pensive businessman highlights notes, deep in thought at his desk." [level=1] [ref=f44e175]
+          - separator [ref=f44e176]
+          - heading "More like this" [level=3] [ref=f44e177]
+          - generic [ref=f44e179]:
+            - link "Man Writing" [ref=f44e181] [cursor=pointer]:
+              - /url: /search/videos/man%20writing/
+            - link "Black Business Man" [ref=f44e184] [cursor=pointer]:
+              - /url: /search/videos/black%20business%20man/
+            - link "Business Man Thinking" [ref=f44e187] [cursor=pointer]:
+              - /url: /search/videos/business%20man%20thinking/
+            - link "African Business" [ref=f44e190] [cursor=pointer]:
+              - /url: /search/videos/african%20business/
+            - link "Study Video" [ref=f44e193] [cursor=pointer]:
+              - /url: /search/videos/study%20video/
+            - link "Entrepreneur Working" [ref=f44e196] [cursor=pointer]:
+              - /url: /search/videos/entrepreneur%20working/
+            - link "Taking Notes" [ref=f44e199] [cursor=pointer]:
+              - /url: /search/videos/taking%20notes/
+            - link "Man Studying" [ref=f44e202] [cursor=pointer]:
+              - /url: /search/videos/man%20studying/
+            - link "Raw Footage For Editing Practice" [ref=f44e205] [cursor=pointer]:
+              - /url: /search/videos/raw%20footage%20for%20editing%20practice/
+            - link "Young Professional" [ref=f44e208] [cursor=pointer]:
+              - /url: /search/videos/young%20professional/
+            - link "Writing Notes" [ref=f44e211] [cursor=pointer]:
+              - /url: /search/videos/writing%20notes/
+            - link "Black Man" [ref=f44e214] [cursor=pointer]:
+              - /url: /search/videos/black%20man/
+            - link "Person Writing" [ref=f44e217] [cursor=pointer]:
+              - /url: /search/videos/person%20writing/
+            - link "Man Working Hard" [ref=f44e220] [cursor=pointer]:
+              - /url: /search/videos/man%20working%20hard/
+            - link "Office Worker" [ref=f44e223] [cursor=pointer]:
+              - /url: /search/videos/office%20worker/
+            - img [ref=f44e226] [cursor=pointer]
+          - generic [ref=f44e229]:
+            - generic [ref=f44e232]:
+              - article [ref=f44e235]:
+                - link [ref=f44e236] [cursor=pointer]:
+                  - /url: /video/man-holding-a-highlighter-while-thinking-9464313/
+              - article [ref=f44e247]:
+                - link [ref=f44e248] [cursor=pointer]:
+                  - /url: /video/a-lawyer-reading-a-document-8731305/
+              - article [ref=f44e259]:
+                - link [ref=f44e260] [cursor=pointer]:
+                  - /url: /video/man-doing-paperwork-8731298/
+              - article [ref=f44e271]:
+                - link [ref=f44e272] [cursor=pointer]:
+                  - /url: /video/man-using-smartphone-while-thinking-8731289/
+              - article [ref=f44e283]:
+                - link [ref=f44e284] [cursor=pointer]:
+                  - /url: /video/a-businessman-looking-at-documents-9465173/
+              - article [ref=f44e295]:
+                - link [ref=f44e296] [cursor=pointer]:
+                  - /url: /video/people-brainstorming-at-the-office-9464653/
+              - article [ref=f44e307]:
+                - link [ref=f44e308] [cursor=pointer]:
+                  - /url: /video/people-discussing-something-8731438/
+              - article [ref=f44e319]:
+                - link [ref=f44e320] [cursor=pointer]:
+                  - /url: /video/man-holding-a-clipboard-while-talking-to-colleagues-9464312/
+              - article [ref=f44e331]:
+                - link [ref=f44e332] [cursor=pointer]:
+                  - /url: /video/man-reading-a-contract-8731208/
+              - article [ref=f44e343]:
+                - link [ref=f44e344] [cursor=pointer]:
+                  - /url: /video/a-woman-sitting-at-the-table-8371028/
+              - article [ref=f44e355]:
+                - link [ref=f44e356] [cursor=pointer]:
+                  - /url: /video/man-wearing-black-suit-writing-on-a-paper-using-his-blue-pen-10374974/
+              - article [ref=f44e367]:
+                - link [ref=f44e368] [cursor=pointer]:
+                  - /url: /video/a-man-sitting-in-the-office-7791924/
+            - button "Load More" [ref=f44e378] [cursor=pointer]
+      - separator [ref=f44e381]
+    - contentinfo [ref=f44e382]:
+      - separator [ref=f44e383]
+      - generic [ref=f44e384]:
+        - generic [ref=f44e385]:
+          - heading "Where stories come together." [level=2] [ref=f44e386]
+          - generic [ref=f44e387]:
+            - link "Download on iOS" [ref=f44e388] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f44e391] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f44e394]:
+            - listitem [ref=f44e395]:
+              - link "Instagram" [ref=f44e396] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f44e399]:
+              - link "Threads" [ref=f44e400] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f44e403]:
+              - link "YouTube" [ref=f44e404] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f44e407]:
+              - link "TikTok" [ref=f44e408] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f44e411]:
+              - link "LinkedIn" [ref=f44e412] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f44e415]:
+              - link "X" [ref=f44e416] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f44e419]:
+          - list [ref=f44e420]:
+            - heading "Pexels" [level=3] [ref=f44e421]
+            - listitem [ref=f44e422]:
+              - link "Free Stock Photos" [ref=f44e423] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f44e424]:
+              - link "Free Videos" [ref=f44e425] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f44e426]:
+              - link "Popular searches" [ref=f44e427] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f44e428]:
+              - link "Collections" [ref=f44e429] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f44e430]:
+              - link "Challenges" [ref=f44e431] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f44e432]:
+              - link "Leaderboard" [ref=f44e433] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f44e434]:
+              - link "Other plugins & apps" [ref=f44e435] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f44e436]:
+            - heading "Company" [level=3] [ref=f44e437]
+            - listitem [ref=f44e438]:
+              - link "About" [ref=f44e439] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f44e440]:
+              - link "Blog" [ref=f44e441] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f44e442]:
+              - link "Help Center" [ref=f44e443] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f44e444]:
+              - link "Report content" [ref=f44e445] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f44e446]:
+              - link "Become a Hero" [ref=f44e447] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f44e448]:
+              - link "Partner with Pexels" [ref=f44e449] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f44e450]:
+              - link "Image & Video API" [ref=f44e451] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f44e452]: Sign Up
+        - list [ref=f44e453]:
+          - listitem [ref=f44e454]:
+            - heading "Free Stock Photos" [level=3] [ref=f44e455]
+          - listitem [ref=f44e456]:
+            - generic [ref=f44e458]:
+              - link "Black and white photography" [ref=f44e460] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=f44e461] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=f44e462] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=f44e463] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=f44e464] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=f44e465] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Galaxy wallpaper" [ref=f44e466] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=f44e467] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=f44e468] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=f44e469] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=f44e470] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=f44e471] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=f44e472] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=f44e474]:
+        - generic [ref=f44e475]: © 2026 Pexels
+        - generic [ref=f44e477]:
+          - link "Terms of Use" [ref=f44e479] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f44e480] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f44e481] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f44e482] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f44e483] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f44e486] [cursor=pointer]
+      - separator [ref=f44e491]
+  - alert [ref=f44e492]

@@ -1,0 +1,90 @@
+{
+  "data_dictionary_metadata": {
+    "generated_at": "2026-09-26T15:26:27.531998+00:00",
+    "source_directory": "data\\unique_data",
+    "file_count": 1,
+    "total_records": 79
+  },
+  "fields": {
+    "approved_for_video": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "category": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "claim_type": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "exact_quote": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "fact_or_copy": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "id": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "metric_unit": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "metric_value": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "risk_or_compliance_note": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "safe_video_wording": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "scope_or_context": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "script_use_case": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "source_url": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "sub_category": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "verification_status": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    },
+    "visual_direction": {
+      "source_file": "data\\unique_data\\crowdwisdom_creative_intelligence.json",
+      "present": true,
+      "record_count": 79
+    }
+  }
+}

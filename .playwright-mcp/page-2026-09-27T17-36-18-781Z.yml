@@ -1,0 +1,412 @@
+- generic [ref=f12e1]:
+  - generic [ref=f12e3]:
+    - navigation [ref=f12e6]:
+      - link [ref=f12e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f12e13]:
+        - generic [ref=f12e14]:
+          - button [ref=f12e502] [cursor=pointer]:
+            - generic [ref=f12e17]: Photos
+          - searchbox [ref=f12e503]
+          - button [ref=f12e26] [cursor=pointer]
+      - generic [ref=f12e30]:
+        - link [ref=f12e504] [cursor=pointer]:
+          - /url: /discover/
+          - generic [ref=f12e33]: Explore
+        - link [ref=f12e505] [cursor=pointer]:
+          - /url: /license/
+          - generic [ref=f12e37]: License
+        - button [ref=f12e39] [cursor=pointer]
+        - button [ref=f12e506] [cursor=pointer]:
+          - generic [ref=f12e43]: Join
+    - main [ref=f12e45]:
+      - separator [ref=f12e46]
+      - generic [ref=f12e47]:
+        - main [ref=f12e48]:
+          - separator [ref=f12e49]
+          - generic [ref=f12e50]:
+            - generic [ref=f12e51]:
+              - link [ref=f12e507] [cursor=pointer]:
+                - /url: /@djiyvlom/
+                - generic [ref=f12e53]: "1"
+              - generic [ref=f12e63]:
+                - link [ref=f12e509] [cursor=pointer]:
+                  - /url: /@djiyvlom/
+                  - heading [level=5] [ref=f12e510]: Artem Shutkin
+                - paragraph [ref=f12e66]:
+                  - text: 68.9M views
+                  - generic [ref=f12e67]: •
+                  - text: 341.3K downloads
+            - generic [ref=f12e68]:
+              - link [ref=f12e511] [cursor=pointer]:
+                - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F30445098%2F13047062_2560_1440_25fps.mp4&external-id=30445098
+                - generic [ref=f12e73]: Edit in Canva
+              - generic [ref=f12e79]:
+                - button [ref=f12e80] [cursor=pointer]
+                - button [ref=f12e512] [cursor=pointer]:
+                  - generic [ref=f12e85]: "42"
+                - generic [ref=f12e89]:
+                  - link [ref=f12e513] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/30445098/
+                    - generic [ref=f12e91]: Free download
+                  - button [ref=f12e94] [cursor=pointer]
+          - separator [ref=f12e99]
+        - generic [ref=f12e100]:
+          - region [ref=f12e516]:
+            - generic:
+              - generic:
+                - generic:
+                  - button
+              - generic [ref=f12e521] [cursor=pointer]:
+                - slider [ref=f12e526]: "0"
+                - text: en 0:00
+              - generic [ref=f12e527]:
+                - button [ref=f12e528] [cursor=pointer]:
+                  - generic [ref=f12e535]:
+                    - generic [aria-hidden]:
+                      - generic: Play
+                - button [ref=f12e536]: 0:00 / 0:10
+                - button [ref=f12e538] [cursor=pointer]:
+                  - generic [ref=f12e539]:
+                    - generic [aria-hidden]: Playback rate
+                - button [ref=f12e540] [cursor=pointer]:
+                  - generic [ref=f12e547]:
+                    - generic [aria-hidden]:
+                      - generic: Enter fullscreen mode
+          - generic [ref=f12e110]:
+            - link [ref=f12e548] [cursor=pointer]:
+              - /url: /@djiyvlom/
+              - generic [ref=f12e112]: "1"
+              - heading [level=5] [ref=f12e550]:
+                - generic [ref=f12e124]: Artem Shutkin
+            - generic [ref=f12e125]:
+              - button [ref=f12e551] [cursor=pointer]:
+                - generic [ref=f12e127]: Follow
+              - link [ref=f12e552] [cursor=pointer]:
+                - /url: https://patreon.com/djiyvlom?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+                - generic [ref=f12e132]: Donate
+          - generic [ref=f12e135]:
+            - generic [ref=f12e137]:
+              - generic [ref=f12e139]:
+                - paragraph [ref=f12e140]: License
+                - link [ref=f12e553] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f12e142]: Free
+              - generic [ref=f12e145]:
+                - paragraph [ref=f12e146]: Dimensions
+                - paragraph [ref=f12e147]: 3840x2160
+              - generic [ref=f12e148]:
+                - paragraph [ref=f12e149]: Aspect Ratio
+                - paragraph [ref=f12e150]: 16:9
+              - generic [ref=f12e151]:
+                - paragraph [ref=f12e152]: Duration
+                - paragraph [ref=f12e153]: 30:10
+              - generic [ref=f12e154]:
+                - paragraph [ref=f12e155]: Date
+                - paragraph [ref=f12e156]: Jan 28, 2025
+              - generic [ref=f12e157]:
+                - paragraph [ref=f12e158]: Downloads
+                - paragraph [ref=f12e159]: 6.2K
+              - generic [ref=f12e160]:
+                - paragraph [ref=f12e161]: Views
+                - paragraph [ref=f12e162]: 1M
+              - generic [ref=f12e163]:
+                - paragraph [ref=f12e164]: Likes
+                - paragraph [ref=f12e165]: "42"
+            - generic [ref=f12e168]:
+              - button [ref=f12e554] [cursor=pointer]
+              - button [ref=f12e555] [cursor=pointer]
+              - link [ref=f12e556] [cursor=pointer]:
+                - /url: /report/?slug=focused-trader-analyzing-stocks-on-dual-monitors-30445098
+          - generic [ref=f12e181]:
+            - paragraph [ref=f12e182]: Description
+            - heading [level=1] [ref=f12e557]: Trader analyzing stock charts and graphs on dual monitors in a dark room.
+          - separator [ref=f12e184]
+          - heading [level=3] [ref=f12e558]: More like this
+          - generic [ref=f12e187]:
+            - link [ref=f12e559] [cursor=pointer]:
+              - /url: /search/videos/trader/
+              - generic [ref=f12e190]: Trader
+            - link [ref=f12e560] [cursor=pointer]:
+              - /url: /search/videos/trading/
+              - generic [ref=f12e193]: Trading
+            - link [ref=f12e561] [cursor=pointer]:
+              - /url: /search/videos/crypto%20trading/
+              - generic [ref=f12e196]: Crypto Trading
+            - link [ref=f12e562] [cursor=pointer]:
+              - /url: /search/videos/man%20on%20computer/
+              - generic [ref=f12e199]: Man On Computer
+            - link [ref=f12e563] [cursor=pointer]:
+              - /url: /search/videos/data%20analyst/
+              - generic [ref=f12e202]: Data Analyst
+            - link [ref=f12e564] [cursor=pointer]:
+              - /url: /search/videos/stock%20trading/
+              - generic [ref=f12e205]: Stock Trading
+            - link [ref=f12e565] [cursor=pointer]:
+              - /url: /search/videos/broker/
+              - generic [ref=f12e208]: Broker
+            - link [ref=f12e566] [cursor=pointer]:
+              - /url: /search/videos/person%20on%20computer/
+              - generic [ref=f12e211]: Person On Computer
+            - link [ref=f12e567] [cursor=pointer]:
+              - /url: /search/videos/forex%20trading/
+              - generic [ref=f12e214]: Forex Trading
+            - link [ref=f12e568] [cursor=pointer]:
+              - /url: /search/videos/analyst/
+              - generic [ref=f12e217]: Analyst
+            - link [ref=f12e569] [cursor=pointer]:
+              - /url: /search/videos/dark%20office/
+              - generic [ref=f12e220]: Dark Office
+            - link [ref=f12e570] [cursor=pointer]:
+              - /url: /search/videos/stock%20market%20trading/
+              - generic [ref=f12e223]: Stock Market Trading
+            - link [ref=f12e571] [cursor=pointer]:
+              - /url: /search/videos/night%20work/
+              - generic [ref=f12e226]: Night Work
+            - link [ref=f12e572] [cursor=pointer]:
+              - /url: /search/videos/traders/
+              - generic [ref=f12e229]: Traders
+            - link [ref=f12e573] [cursor=pointer]:
+              - /url: /search/videos/person%20working/
+              - generic [ref=f12e232]: Person Working
+            - img [ref=f12e234] [cursor=pointer]
+          - generic [ref=f12e237]:
+            - generic [ref=f12e240]:
+              - article [ref=f12e243]:
+                - link [ref=f12e244] [cursor=pointer]:
+                  - /url: /video/man-analyzing-cryptocurrency-on-laptops-30445104/
+              - article [ref=f12e255]:
+                - link [ref=f12e256] [cursor=pointer]:
+                  - /url: /video/user-analyzing-cryptocurrency-charts-on-laptop-30445102/
+              - generic [ref=f12e575]:
+                - generic [ref=f12e577]:
+                  - link [ref=f12e578] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f12e580] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f12e582] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f12e584] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - link [ref=f12e586] [cursor=pointer]:
+                  - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - paragraph [ref=f12e589]: Bring your ideas to life with Canva AI
+                - link [ref=f12e590] [cursor=pointer]:
+                  - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - generic [ref=f12e591]: Get started for free
+              - article [ref=f12e267]:
+                - link [ref=f12e268] [cursor=pointer]:
+                  - /url: /video/hands-typing-on-laptop-with-trading-graphs-30445103/
+              - article [ref=f12e279]:
+                - link [ref=f12e280] [cursor=pointer]:
+                  - /url: /video/dynamic-crypto-trading-on-dual-screens-30445105/
+              - article [ref=f12e291]:
+                - link [ref=f12e292] [cursor=pointer]:
+                  - /url: /video/financial-analyst-monitors-trading-data-on-screen-36418660/
+              - article [ref=f12e303]:
+                - link [ref=f12e304] [cursor=pointer]:
+                  - /url: /video/dynamic-stock-market-analysis-on-multiple-devices-35771193/
+              - article [ref=f12e315]:
+                - link [ref=f12e316] [cursor=pointer]:
+                  - /url: /video/close-up-video-of-a-laptop-8480483/
+              - article [ref=f12e327]:
+                - link [ref=f12e328] [cursor=pointer]:
+                  - /url: /video/man-analyzing-graphs-8480474/
+              - article [ref=f12e339]:
+                - link [ref=f12e340] [cursor=pointer]:
+                  - /url: /video/dynamic-crypto-trading-screen-analysis-35446607/
+              - article [ref=f12e351]:
+                - link [ref=f12e352] [cursor=pointer]:
+                  - /url: /video/man-monitoring-the-stocks-7579951/
+              - article [ref=f12e363]:
+                - link [ref=f12e364] [cursor=pointer]:
+                  - /url: /video/man-using-a-laptop-while-writing-7579957/
+              - article [ref=f12e375]:
+                - link [ref=f12e376] [cursor=pointer]:
+                  - /url: /video/dynamic-financial-trading-analysis-setup-31121315/
+            - button [ref=f12e593] [cursor=pointer]:
+              - generic [ref=f12e387]: Load More
+      - separator [ref=f12e389]
+    - contentinfo [ref=f12e390]:
+      - separator [ref=f12e391]
+      - generic [ref=f12e392]:
+        - generic [ref=f12e393]:
+          - heading [level=2] [ref=f12e594]: Where stories come together.
+          - generic [ref=f12e395]:
+            - link [ref=f12e595] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+              - generic [ref=f12e397]: Download on iOS
+            - link [ref=f12e596] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+              - generic [ref=f12e400]: Download on Android
+          - list [ref=f12e402]:
+            - listitem [ref=f12e403]:
+              - link [ref=f12e597] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f12e407]:
+              - link [ref=f12e598] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f12e411]:
+              - link [ref=f12e599] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f12e415]:
+              - link [ref=f12e600] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f12e419]:
+              - link [ref=f12e601] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f12e423]:
+              - link [ref=f12e602] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f12e427]:
+          - list [ref=f12e428]:
+            - heading [level=3] [ref=f12e603]: Pexels
+            - listitem [ref=f12e430]:
+              - link [ref=f12e604] [cursor=pointer]:
+                - /url: /
+                - text: Free Stock Photos
+            - listitem [ref=f12e432]:
+              - link [ref=f12e605] [cursor=pointer]:
+                - /url: /videos/
+                - text: Free Videos
+            - listitem [ref=f12e434]:
+              - link [ref=f12e606] [cursor=pointer]:
+                - /url: /popular-searches/
+                - text: Popular searches
+            - listitem [ref=f12e436]:
+              - link [ref=f12e607] [cursor=pointer]:
+                - /url: /discover/
+                - text: Collections
+            - listitem [ref=f12e438]:
+              - link [ref=f12e608] [cursor=pointer]:
+                - /url: /challenges/
+                - text: Challenges
+            - listitem [ref=f12e440]:
+              - link [ref=f12e609] [cursor=pointer]:
+                - /url: /leaderboard/
+                - text: Leaderboard
+            - listitem [ref=f12e442]:
+              - link [ref=f12e610] [cursor=pointer]:
+                - /url: /pro/
+                - text: Other plugins & apps
+          - list [ref=f12e444]:
+            - heading [level=3] [ref=f12e611]: Company
+            - listitem [ref=f12e446]:
+              - link [ref=f12e612] [cursor=pointer]:
+                - /url: /about/
+                - text: About
+            - listitem [ref=f12e448]:
+              - link [ref=f12e613] [cursor=pointer]:
+                - /url: /blog/
+                - text: Blog
+            - listitem [ref=f12e450]:
+              - link [ref=f12e614] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+                - text: Help Center
+            - listitem [ref=f12e452]:
+              - link [ref=f12e615] [cursor=pointer]:
+                - /url: /report/
+                - text: Report content
+            - listitem [ref=f12e454]:
+              - link [ref=f12e616] [cursor=pointer]:
+                - /url: /hero/
+                - text: Become a Hero
+            - listitem [ref=f12e456]:
+              - link [ref=f12e617] [cursor=pointer]:
+                - /url: /become-a-partner/
+                - text: Partner with Pexels
+            - listitem [ref=f12e458]:
+              - link [ref=f12e618] [cursor=pointer]:
+                - /url: /api/
+                - text: Image & Video API
+            - listitem [ref=f12e460]: Sign Up
+        - list [ref=f12e461]:
+          - listitem [ref=f12e462]:
+            - heading [level=3] [ref=f12e619]: Free Stock Photos
+          - listitem [ref=f12e464]:
+            - generic [ref=f12e466]:
+              - link [ref=f12e620] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+                - text: Black and white photography
+              - link [ref=f12e621] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+                - text: Happy birthday images
+              - link [ref=f12e622] [cursor=pointer]:
+                - /url: /search/videos/business/
+                - text: Free business videos
+              - link [ref=f12e623] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+                - text: Happy new year images
+              - link [ref=f12e624] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+                - text: Cool wallpapers
+              - link [ref=f12e625] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+                - text: Best HD wallpapers
+              - link [ref=f12e626] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+                - text: Galaxy wallpaper
+              - link [ref=f12e627] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+                - text: Lock screen wallpaper
+              - link [ref=f12e628] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+                - text: iPhone wallpaper
+              - link [ref=f12e629] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+                - text: 4K wallpaper
+              - link [ref=f12e630] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+                - text: Samsung wallpaper
+              - link [ref=f12e631] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+                - text: Love wallpaper
+              - link [ref=f12e632] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+                - text: Mobile wallpaper
+      - generic [ref=f12e482]:
+        - generic [ref=f12e483]: © 2026 Pexels
+        - generic [ref=f12e485]:
+          - link [ref=f12e633] [cursor=pointer]:
+            - /url: /terms-of-service/
+            - text: Terms of Use
+          - link [ref=f12e634] [cursor=pointer]:
+            - /url: /privacy-policy/
+            - text: Privacy Policy
+          - link [ref=f12e635] [cursor=pointer]:
+            - /url: /license/
+            - text: License
+          - link [ref=f12e636] [cursor=pointer]:
+            - /url: /imprint/
+            - text: Imprint
+          - link [ref=f12e637] [cursor=pointer]:
+            - /url: /cookies/
+            - text: Cookies Policy
+        - button [ref=f12e638] [cursor=pointer]:
+          - generic [ref=f12e495]: English
+      - separator [ref=f12e499]
+  - alert [ref=f12e500]
+  - dialog [active] [ref=f12e640]:
+    - generic [ref=f12e642]:
+      - generic [ref=f12e643]:
+        - generic [ref=f12e646]:
+          - generic [ref=f12e647]:
+            - heading "Say Thanks!" [level=4] [ref=f12e648]
+            - button [ref=f12e650] [cursor=pointer]
+          - paragraph [ref=f12e654]:
+            - text: Show some love to
+            - link "Artem Shutkin" [ref=f12e655] [cursor=pointer]:
+              - /url: /@3372513/
+            - text: by giving them a small donation.
+          - generic [ref=f12e657]:
+            - link "Donate" [ref=f12e659] [cursor=pointer]:
+              - /url: https://patreon.com/djiyvlom?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+            - button "Follow" [ref=f12e662] [cursor=pointer]
+            - link [ref=f12e665] [cursor=pointer]:
+              - /url: https://www.instagram.com/shoot.kin
+        - button [ref=f12e670] [cursor=pointer]
+      - link [ref=f12e674] [cursor=pointer]:
+        - /url: https://www.canva.com/video-editor/?utm_campaign=postphoto%20download%20experiment&utm_medium=acquisitions&utm_source=pexels&utm_content=video_control_every_frame
+        - generic [ref=f12e676]:
+          - heading "Control every frame your way" [level=2] [ref=f12e678]
+          - button "Get Started for free" [ref=f12e679]

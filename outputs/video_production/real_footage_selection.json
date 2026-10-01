@@ -1,0 +1,79 @@
+{
+  "review_metadata": {
+    "review_date": "2026-09-27",
+    "review_method": "Visual inspection of extracted frames via image analysis",
+    "candidates_reviewed": 7,
+    "review_frames_created": 18,
+    "notes": "All candidates reviewed by actual frame inspection, not filename/resolution alone."
+  },
+  "selected_assets": [
+    {
+      "asset_id": "candidate_001",
+      "path": ".playwright-mcp/16598106-3840-2160-25fps.mp4",
+      "source": "local_playwright_capture",
+      "resolution": "3840x2160",
+      "fps": 25,
+      "best_use": "Shot 2 - hands/keyboard/monitor close-up",
+      "vertical_crop": "pass",
+      "cinematic_fit": "pass",
+      "why_selected": "Native 1080x1920 vertical format. Shows hands pointing at tablet with candlestick chart, background monitor with trading charts. Dark blue/cool screen-lit grading, shallow depth of field (tablet sharp, background blurred). Professional trader aesthetic. Perfect for 'noise/overload' scene - multiple screens, data everywhere. No crop degradation."
+    },
+    {
+      "asset_id": "candidate_002",
+      "path": ".playwright-mcp/13047064-3840-2160-25fps.mp4",
+      "source": "local_playwright_capture",
+      "resolution": "3840x2160",
+      "fps": 25,
+      "best_use": "Shot 3 - analyst/professional at workspace",
+      "vertical_crop": "pass",
+      "cinematic_fit": "pass",
+      "why_selected": "Horizontal 3840x2160 source, centered 1080x1920 crop works well. Shows trader from behind at glass desk with dual monitors displaying charts. Dark moody lighting, warm wall backdrop, screen glow on subject. Professional, focused atmosphere. Good for 'concentration' or 'analyst' shots. Crop quality: subject well-centered, minimal edge loss."
+    },
+    {
+      "asset_id": "candidate_003",
+      "path": ".playwright-mcp/8480483-uhd-3840-2160-25fps.mp4",
+      "source": "local_playwright_capture",
+      "resolution": "3840x2160",
+      "fps": 25,
+      "best_use": "Shot 4 - monitors/workspace/keyboard",
+      "vertical_crop": "pass",
+      "cinematic_fit": "pass",
+      "why_selected": "Horizontal source, centered crop captures laptop screen with trading chart in focus, large background monitor, microphone, audio interface. Shows hands on keyboard. Rich detail: candlestick patterns, order book, trading UI. Professional streamer/trader setup. Crop quality: good, laptop screen is the focal point and survives the crop well."
+    },
+    {
+      "asset_id": "candidate_004",
+      "path": "assets/scenes/scene_05/primary.mp4",
+      "source": "pexels",
+      "resolution": "4096x2160",
+      "fps": 30,
+      "best_use": "Shot 12 - calm ending (already approved for Scene 5)",
+      "vertical_crop": "pass",
+      "cinematic_fit": "pass",
+      "why_selected": "ALREADY APPROVED production asset for Scene 5 (ResponsibleCloseScene). Shows professional man in white shirt/tie at white desk with clipboard, thoughtful pose. Bright, clean, calm aesthetic. Works as the 'resolution' beat after the dark trading scenes. Do NOT replace."
+    }
+  ],
+  "rejected_assets": [
+    {
+      "asset_id": "candidate_9464299",
+      "path": ".playwright-mcp/9464299-uhd-4096-2160-30fps.mp4",
+      "reason": "DUPLICATE of primary.mp4. Same Pexels source, same content (man with clipboard at white desk). No technical reason to replace the already-approved production asset. Do not register as separate production asset."
+    },
+    {
+      "asset_id": "cinematic_dark",
+      "path": "outputs/assets/cinematic_dark.mp4",
+      "reason": "Pure black frame (RGB 0,0,0). No usable visual content. At best a transition element, not a primary shot asset."
+    },
+    {
+      "asset_id": "trader_test",
+      "path": "outputs/assets/trader_test.mp4",
+      "reason": "Pure blue screen test pattern (RGB 0,0,255). No usable visual content. Not a real footage asset."
+    }
+  ],
+  "summary": {
+    "best_candidate_for_trader_close_up": "16598106-3840-2160-25fps.mp4",
+    "best_candidate_for_hands_keyboard": "8480483-uhd-3840-2160-25fps.mp4",
+    "best_candidate_for_monitors_workspace": "13047064-3840-2160-25fps.mp4",
+    "best_candidate_for_analyst_professional": "13047064-3840-2160-25fps.mp4",
+    "best_candidate_for_calm_ending": "assets/scenes/scene_05/primary.mp4"
+  }
+}

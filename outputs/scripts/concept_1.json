@@ -1,0 +1,114 @@
+{
+  "concept_id": 1,
+  "track": "pain_icp",
+  "concept": {
+    "concept_id": 1,
+    "title": "The Trader's Signal Overload",
+    "target_icp": "Forex and crypto traders aged 25-45 following multiple signal channels",
+    "hook": "Trader staring at screen with contradictory buy/sell signals",
+    "story": "Trader overwhelmed by noise discovers CrowdWisdom structured clarity",
+    "scenes": [
+      {
+        "scene_id": "1",
+        "timing": "0-7",
+        "visuals": "Trader in a dim room, multiple monitors flashing conflicting red/green buy/sell signals from various channels",
+        "narration": "Traders drown in conflicting signals from every direction.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Overlapping urgent voice alerts from different channels",
+        "music": "Tense, staccato electronic beats",
+        "transitions": "cut",
+        "product_appearance": false,
+        "cta": false
+      },
+      {
+        "scene_id": "2",
+        "timing": "7-13",
+        "visuals": "Close-up of trader's eyes darting between screens, hand rubbing temples",
+        "narration": "The noise is paralyzing.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Rapid heartbeat sound mixed with the alerts",
+        "music": "Continues tense beats, slightly more dissonant",
+        "transitions": "fade",
+        "product_appearance": false,
+        "cta": false
+      },
+      {
+        "scene_id": "3",
+        "timing": "13-20",
+        "visuals": "Trader clicks open CrowdWisdom app; screen transitions to clean blue interface",
+        "narration": "Then they find CrowdWisdom.",
+        "dialogue": "",
+        "text": "",
+        "sound": "A soft click, then the alerts fade",
+        "music": "Beats begin to soften",
+        "transitions": "slide",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "4",
+        "timing": "20-27",
+        "visuals": "Close-up of CrowdWisdom interface showing a single consensus line with rising confidence meter",
+        "narration": "One clear signal emerges from the crowd.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Alerts replaced by calm ambient tone",
+        "music": "Hopeful synth pad starts",
+        "transitions": "fade",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "5",
+        "timing": "27-33",
+        "visuals": "Trader leans back, smiling, pointing at the screen",
+        "narration": "Confidence replaces confusion.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Calm ambient tone continues",
+        "music": "Hopeful synth pad swells",
+        "transitions": "cut",
+        "product_appearance": false,
+        "cta": false
+      },
+      {
+        "scene_id": "6",
+        "timing": "33-39",
+        "visuals": "CrowdWisdom logo and tagline: 'Signal clarity from the crowd'",
+        "narration": "",
+        "dialogue": "",
+        "text": "Signal clarity from the crowd",
+        "sound": "Soft chime",
+        "music": "Hopeful synth pad holds",
+        "transitions": "fade",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "7",
+        "timing": "39-45",
+        "visuals": "CTA button: 'See the consensus' pulses gently",
+        "narration": "",
+        "dialogue": "",
+        "text": "See the consensus",
+        "sound": "Soft pulse sound",
+        "music": "Hopeful synth pad fades out",
+        "transitions": "none",
+        "product_appearance": false,
+        "cta": true
+      }
+    ],
+    "narration": "When every channel shouts a different direction, clarity is lost. CrowdWisdom brings the crowd to one voice, turning confusion into conviction",
+    "visual_direction": "Dark, cluttered desk with multiple monitors showing red/green arrows; shift to clean, blue-toned interface with single consensus line",
+    "sound_direction": "Start with overlapping urgent voice alerts, fade to calm ambient tone as clarity emerges",
+    "music_direction": "Tense, staccato electronic beats transitioning to steady, hopeful synth pad",
+    "minimal_text": "Signal clarity from the crowd",
+    "cta": "See the consensus",
+    "duration": 45,
+    "evidence": [
+      "ad insight: traders follow signal channels"
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+- generic [active] [ref=f33e1]:
+  - generic [ref=f33e3]:
+    - navigation [ref=f33e6]:
+      - link [ref=f33e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f33e13]:
+        - generic [ref=f33e14]:
+          - button "Videos" [ref=f33e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f33e24]: calm professional working
+          - button [ref=f33e26] [cursor=pointer]
+      - generic [ref=f33e30]:
+        - link "Explore" [ref=f33e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f33e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f33e39] [cursor=pointer]
+        - button "Join" [ref=f33e42] [cursor=pointer]
+    - main [ref=f33e45]:
+      - generic [ref=f33e46]:
+        - generic [ref=f33e50]:
+          - paragraph [ref=f33e52] [cursor=pointer]: Any
+          - paragraph [ref=f33e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f33e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f33e67] [cursor=pointer]: Square
+        - generic [ref=f33e71]:
+          - paragraph [ref=f33e73] [cursor=pointer]: Any
+          - paragraph [ref=f33e75] [cursor=pointer]: "0"
+          - paragraph [ref=f33e80] [cursor=pointer]: "1"
+          - paragraph [ref=f33e85] [cursor=pointer]: "2"
+          - paragraph [ref=f33e90] [cursor=pointer]: 3+
+        - generic [ref=f33e94]:
+          - paragraph [ref=f33e96] [cursor=pointer]: Any
+          - paragraph [ref=f33e101] [cursor=pointer]: Baby
+          - paragraph [ref=f33e106] [cursor=pointer]: Child
+          - paragraph [ref=f33e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f33e116] [cursor=pointer]: Adult
+          - paragraph [ref=f33e121] [cursor=pointer]: Senior adult
+        - generic [ref=f33e124]:
+          - generic [ref=f33e125]:
+            - generic [ref=f33e126] [cursor=pointer]
+            - slider [ref=f33e128] [cursor=pointer]
+            - slider [ref=f33e129] [cursor=pointer]
+          - generic [ref=f33e130]:
+            - generic [ref=f33e131]:
+              - paragraph [ref=f33e132]: Minimum
+              - paragraph [ref=f33e133]: 5s
+            - generic [ref=f33e134]:
+              - paragraph [ref=f33e135]: Maximum
+              - paragraph [ref=f33e136]: 2m+
+        - generic [ref=f33e140]:
+          - paragraph [ref=f33e142] [cursor=pointer]: Any
+          - paragraph [ref=f33e147] [cursor=pointer]: "24"
+          - paragraph [ref=f33e152] [cursor=pointer]: "25"
+          - paragraph [ref=f33e157] [cursor=pointer]: "30"
+          - paragraph [ref=f33e162] [cursor=pointer]: "50"
+          - paragraph [ref=f33e167] [cursor=pointer]: 60+
+        - generic [ref=f33e171]:
+          - paragraph [ref=f33e173] [cursor=pointer]: Any
+          - paragraph [ref=f33e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f33e183] [cursor=pointer]: 4K
+          - paragraph [ref=f33e188] [cursor=pointer]: 8K
+        - generic [ref=f33e192]:
+          - paragraph [ref=f33e194] [cursor=pointer]: Any
+          - paragraph [ref=f33e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f33e204] [cursor=pointer]: Last week
+          - paragraph [ref=f33e209] [cursor=pointer]: Last month
+          - paragraph [ref=f33e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f33e215]:
+          - generic [ref=f33e216]:
+            - heading "Free Calm Professional Working Videos" [level=1] [ref=f33e219]
+            - generic [ref=f33e222]:
+              - link "Photos 10K" [ref=f33e224] [cursor=pointer]:
+                - /url: /search/calm%20professional%20working/
+                - text: Photos
+                - generic [ref=f33e225]: 10K
+              - link "Videos 10K" [ref=f33e226] [cursor=pointer]:
+                - /url: /search/videos/calm%20professional%20working/
+                - text: Videos
+                - generic [ref=f33e227]: 10K
+              - link "Users 4.6K" [ref=f33e228] [cursor=pointer]:
+                - /url: /search/users/calm%20professional%20working/
+                - text: Users
+                - generic [ref=f33e229]: 4.6K
+            - generic [ref=f33e231]:
+              - button "Filters" [ref=f33e233] [cursor=pointer]
+              - generic [ref=f33e243]:
+                - link [ref=f33e245] [cursor=pointer]:
+                  - /url: /search/videos/entrepreneur%20working/
+                  - img "entrepreneur working" [ref=f33e246]
+                  - generic [ref=f33e247]:
+                    - paragraph [ref=f33e248]: entrepreneur working
+                    - paragraph [ref=f33e249]: 10K
+                - link [ref=f33e250] [cursor=pointer]:
+                  - /url: /search/videos/person%20working/
+                  - img "person working" [ref=f33e251]
+                  - generic [ref=f33e252]:
+                    - paragraph [ref=f33e253]: person working
+                    - paragraph [ref=f33e254]: 126K
+                - link [ref=f33e255] [cursor=pointer]:
+                  - /url: /search/videos/young%20professional/
+                  - img "young professional" [ref=f33e256]
+                  - generic [ref=f33e257]:
+                    - paragraph [ref=f33e258]: young professional
+                    - paragraph [ref=f33e259]: 96K
+                - link [ref=f33e260] [cursor=pointer]:
+                  - /url: /search/videos/working%20alone/
+                  - img "working alone" [ref=f33e261]
+                  - generic [ref=f33e262]:
+                    - paragraph [ref=f33e263]: working alone
+                    - paragraph [ref=f33e264]: 58K
+                - link [ref=f33e265] [cursor=pointer]:
+                  - /url: /search/videos/calm%20person/
+                  - img "calm person" [ref=f33e266]
+                  - generic [ref=f33e267]:
+                    - paragraph [ref=f33e268]: calm person
+                    - paragraph [ref=f33e269]: 217K
+                - link [ref=f33e270] [cursor=pointer]:
+                  - /url: /search/videos/man%20working%20hard/
+                  - img "man working hard" [ref=f33e271]
+                  - generic [ref=f33e272]:
+                    - paragraph [ref=f33e273]: man working hard
+                    - paragraph [ref=f33e274]: 115K
+                - link [ref=f33e275] [cursor=pointer]:
+                  - /url: /search/videos/office%20working/
+                  - img "office working" [ref=f33e276]
+                  - generic [ref=f33e277]:
+                    - paragraph [ref=f33e278]: office working
+                    - paragraph [ref=f33e279]: 63K
+                - link [ref=f33e280] [cursor=pointer]:
+                  - /url: /search/videos/person%20working%20laptop/
+                  - img "person working laptop" [ref=f33e281]
+                  - generic [ref=f33e282]:
+                    - paragraph [ref=f33e283]: person working laptop
+                    - paragraph [ref=f33e284]: 10K
+                - link [ref=f33e285] [cursor=pointer]:
+                  - /url: /search/videos/student%20studying/
+                  - img "student studying" [ref=f33e286]
+                  - generic [ref=f33e287]:
+                    - paragraph [ref=f33e288]: student studying
+                    - paragraph [ref=f33e289]: 21K
+                - link [ref=f33e290] [cursor=pointer]:
+                  - /url: /search/videos/working%20in%20office/
+                  - img "working in office" [ref=f33e291]
+                  - generic [ref=f33e292]:
+                    - paragraph [ref=f33e293]: working in office
+                    - paragraph [ref=f33e294]: 63K
+                - link [ref=f33e295] [cursor=pointer]:
+                  - /url: /search/videos/office%20worker/
+                  - img "office worker" [ref=f33e296]
+                  - generic [ref=f33e297]:
+                    - paragraph [ref=f33e298]: office worker
+                    - paragraph [ref=f33e299]: 44K
+                - link [ref=f33e300] [cursor=pointer]:
+                  - /url: /search/videos/person%20studying/
+                  - img "person studying" [ref=f33e301]
+                  - generic [ref=f33e302]:
+                    - paragraph [ref=f33e303]: person studying
+                    - paragraph [ref=f33e304]: 101K
+                - link [ref=f33e305] [cursor=pointer]:
+                  - /url: /search/videos/happy%20employee/
+                  - img "happy employee" [ref=f33e306]
+                  - generic [ref=f33e307]:
+                    - paragraph [ref=f33e308]: happy employee
+                    - paragraph [ref=f33e309]: 10K
+                - link [ref=f33e310] [cursor=pointer]:
+                  - /url: /search/videos/computer%20working/
+                  - img "computer working" [ref=f33e311]
+                  - generic [ref=f33e312]:
+                    - paragraph [ref=f33e313]: computer working
+                    - paragraph [ref=f33e314]: 55K
+                - link [ref=f33e315] [cursor=pointer]:
+                  - /url: /search/videos/work%20stress/
+                  - img "work stress" [ref=f33e316]
+                  - generic [ref=f33e317]:
+                    - paragraph [ref=f33e318]: work stress
+                    - paragraph [ref=f33e319]: 10K
+                - link [ref=f33e320] [cursor=pointer]:
+                  - /url: /search/videos/person%20working%20on%20laptop/
+                  - img "person working on laptop" [ref=f33e321]
+                  - generic [ref=f33e322]:
+                    - paragraph [ref=f33e323]: person working on laptop
+                    - paragraph [ref=f33e324]: 129K
+            - generic [ref=f33e326]:
+              - generic [ref=f33e329]:
+                - article [ref=f33e332]:
+                  - link [ref=f33e333] [cursor=pointer]:
+                    - /url: /video/a-man-using-a-laptop-8448893/
+                - article [ref=f33e344]:
+                  - link [ref=f33e345] [cursor=pointer]:
+                    - /url: /video/a-entreprenuer-woman-writing-inthe-notebook-while-working-8102311/
+                - generic [ref=f33e355]:
+                  - generic [ref=f33e357]:
+                    - link "Create your own calm professional working content with Canva" [ref=f33e358] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own calm professional working content with Canva" [ref=f33e360] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own calm professional working content with Canva" [ref=f33e362] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own calm professional working content with Canva" [ref=f33e364] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f33e366] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f33e369]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f33e370] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f33e375]:
+                  - link [ref=f33e376] [cursor=pointer]:
+                    - /url: /video/a-woman-drinking-coffee-while-working-on-her-laptop-8632774/
+                - article [ref=f33e387]:
+                  - link [ref=f33e388] [cursor=pointer]:
+                    - /url: /video/a-man-sitting-at-a-table-with-a-laptop-5083561/
+                - article [ref=f33e399]:
+                  - link [ref=f33e400] [cursor=pointer]:
+                    - /url: /video/a-man-closing-two-laptops-on-the-same-time-3253741/
+                - article [ref=f33e411]:
+                  - link [ref=f33e412] [cursor=pointer]:
+                    - /url: /video/woman-working-and-using-her-laptop-at-the-cafe-7681386/
+                - article [ref=f33e423]:
+                  - link [ref=f33e424] [cursor=pointer]:
+                    - /url: /video/focused-man-working-on-laptop-in-cozy-cafe-39500867/
+                - article [ref=f33e435]:
+                  - link [ref=f33e436] [cursor=pointer]:
+                    - /url: /video/men-working-in-a-office-8460906/
+                - article [ref=f33e447]:
+                  - link [ref=f33e448] [cursor=pointer]:
+                    - /url: /video/man-talking-on-phone-at-work-10374925/
+                - generic [ref=f33e458]:
+                  - generic [ref=f33e459]:
+                    - heading "‌S‌‌p‌‌o‌‌n‌‌s‌‌o‌‌r‌‌‌e‌‌‌d‌ ‌‌‌V‌i‌‌‌d‌‌‌e‌o‌‌s‌‌‌" [level=4] [ref=f33e460]
+                    - link [ref=f33e461] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9jYWxtJTIwcHJvZmVzc2lvbmFsJTIwd29ya2luZz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbG9nbyZ1dG1fdGVybT1jYWxtJTIwcHJvZmVzc2lvbmFsJTIwd29ya2luZyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiOTgyNTlkYTItYmI5MC00NTdmLWFmNzctMTMzODI3MDY0NDRmIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJjYWxtIHByb2Zlc3Npb25hbCB3b3JraW5nIn19/
+                  - generic [ref=f33e465]:
+                    - link [ref=f33e466] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL21pbmRmdWwtd29tYW4tY2FsbWx5LXByYWN0aWNpbmctZGVlcC1icmVhdGhpbmctZXhlcmNpc2VzLWR1cmluZy1hLXNob3J0LWJyZWFrLWluLWhlci1nbTIyMjQ3MzMyODktNjQwODE1MDM4P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1jYWxtJTIwcHJvZmVzc2lvbmFsJTIwd29ya2luZyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiOTgyNTlkYTItYmI5MC00NTdmLWFmNzctMTMzODI3MDY0NDRmIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJjYWxtIHByb2Zlc3Npb25hbCB3b3JraW5nIn19/
+                    - link [ref=f33e469] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2VtcGxveWVlLWFjY29tcGxpc2gtcHJvamVjdC1wcmVwYXJhdGlvbi10YWtlLWJyZWFrLWxlYW4tb24tb2ZmaWNlLWNoYWlyLWdtMTI5NTQ2MDYyMi0zODkxNzk4Nzc_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPWNhbG0lMjBwcm9mZXNzaW9uYWwlMjB3b3JraW5nIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiI5ODI1OWRhMi1iYjkwLTQ1N2YtYWY3Ny0xMzM4MjcwNjQ0NGYiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImNhbG0gcHJvZmVzc2lvbmFsIHdvcmtpbmcifX0/
+                    - link [ref=f33e472] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2J1c2luZXNzd29tYW4tdGhpbmtpbmctYW5kLWdsYXNzLWluLWNpdHktYnktYnVpbGRpbmdzLWFtYml0aW9uLWFuZC1jYXJlZXItcGxhbm5pbmctZ20xODU1NTQzNDk3LTU1MjIyMTY0MT91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09Y2FsbSUyMHByb2Zlc3Npb25hbCUyMHdvcmtpbmciLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6Ijk4MjU5ZGEyLWJiOTAtNDU3Zi1hZjc3LTEzMzgyNzA2NDQ0ZiIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoiY2FsbSBwcm9mZXNzaW9uYWwgd29ya2luZyJ9fQ/
+                    - link [ref=f33e475] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2FzaWFuLXdvbWFuLXdhbGtpbmctZ20xNDg4Nzg3NTQyLTUxMzg1MDAwNz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09Y2FsbSUyMHByb2Zlc3Npb25hbCUyMHdvcmtpbmciLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6Ijk4MjU5ZGEyLWJiOTAtNDU3Zi1hZjc3LTEzMzgyNzA2NDQ0ZiIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoiY2FsbSBwcm9mZXNzaW9uYWwgd29ya2luZyJ9fQ/
+                  - link [ref=f33e478] [cursor=pointer]:
+                    - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9jYWxtJTIwcHJvZmVzc2lvbmFsJTIwd29ya2luZz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfY291cG9uY29kZSZ1dG1fdGVybT1jYWxtJTIwcHJvZmVzc2lvbmFsJTIwd29ya2luZyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiOTgyNTlkYTItYmI5MC00NTdmLWFmNzctMTMzODI3MDY0NDRmIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJjYWxtIHByb2Zlc3Npb25hbCB3b3JraW5nIn19/
+                    - img [ref=f33e481]:
+                      - generic [ref=f33e482]: Get 20% off with code PEXELS20 »
+                - article [ref=f33e485]:
+                  - link [ref=f33e486] [cursor=pointer]:
+                    - /url: /video/man-finishing-work-at-cafe-6829202/
+                - article [ref=f33e497]:
+                  - link [ref=f33e498] [cursor=pointer]:
+                    - /url: /video/elderly-man-working-at-the-office-8348328/
+                - article [ref=f33e509]:
+                  - link [ref=f33e510] [cursor=pointer]:
+                    - /url: /video/man-typing-on-the-computer-in-the-office-8102853/
+                - article [ref=f33e521]:
+                  - link [ref=f33e522] [cursor=pointer]:
+                    - /url: /video/woman-typing-on-a-laptop-6877947/
+                - article [ref=f33e533]:
+                  - link [ref=f33e534] [cursor=pointer]:
+                    - /url: /video/focused-man-doing-paperwork-9464299/
+                - article [ref=f33e545]:
+                  - link [ref=f33e546] [cursor=pointer]:
+                    - /url: /video/programmers-at-work-6804114/
+                - article [ref=f33e557]:
+                  - link [ref=f33e558] [cursor=pointer]:
+                    - /url: /video/a-man-using-laptop-6876443/
+                - article [ref=f33e569]:
+                  - link [ref=f33e570] [cursor=pointer]:
+                    - /url: /video/man-using-laptop-while-working-7580446/
+                - article [ref=f33e581]:
+                  - link [ref=f33e582] [cursor=pointer]:
+                    - /url: /video/a-man-typing-on-a-laptop-8036711/
+                - article [ref=f33e593]:
+                  - link [ref=f33e594] [cursor=pointer]:
+                    - /url: /video/a-man-talking-to-a-client-using-the-mic-of-a-headset-8865855/
+                - article [ref=f33e605]:
+                  - link [ref=f33e606] [cursor=pointer]:
+                    - /url: /video/man-with-eyeglasses-typing-on-laptop-12893576/
+                - article [ref=f33e617]:
+                  - link [ref=f33e618] [cursor=pointer]:
+                    - /url: /video/a-man-using-laptop-while-drinking-5527781/
+                - article [ref=f33e629]:
+                  - link [ref=f33e630] [cursor=pointer]:
+                    - /url: /video/person-woman-office-working-10839351/
+                - article [ref=f33e641]:
+                  - link [ref=f33e642] [cursor=pointer]:
+                    - /url: /video/woman-using-a-laptop-7308011/
+                - article [ref=f33e653]:
+                  - link [ref=f33e654] [cursor=pointer]:
+                    - /url: /video/woman-using-a-laptop-7189770/
+              - button "Load More" [ref=f33e664] [cursor=pointer]
+            - navigation [ref=f33e667]:
+              - generic [ref=f33e669]:
+                - link "1" [ref=f33e671]:
+                  - /url: /search/videos/calm%20professional%20working/
+                - link "2" [ref=f33e674] [cursor=pointer]:
+                  - /url: /search/videos/calm%20professional%20working/?page=2
+                - link "3" [ref=f33e677] [cursor=pointer]:
+                  - /url: /search/videos/calm%20professional%20working/?page=3
+                - link "4" [ref=f33e680] [cursor=pointer]:
+                  - /url: /search/videos/calm%20professional%20working/?page=4
+                - link "5" [ref=f33e683] [cursor=pointer]:
+                  - /url: /search/videos/calm%20professional%20working/?page=5
+                - link "6" [ref=f33e686] [cursor=pointer]:
+                  - /url: /search/videos/calm%20professional%20working/?page=6
+                - link "Next" [ref=f33e689] [cursor=pointer]:
+                  - /url: /search/videos/calm%20professional%20working/?page=2
+    - contentinfo [ref=f33e693]:
+      - separator [ref=f33e694]
+      - generic [ref=f33e695]:
+        - generic [ref=f33e696]:
+          - heading "Where stories come together." [level=2] [ref=f33e697]
+          - generic [ref=f33e698]:
+            - link "Download on iOS" [ref=f33e699] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f33e702] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f33e705]:
+            - listitem [ref=f33e706]:
+              - link "Instagram" [ref=f33e707] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f33e710]:
+              - link "Threads" [ref=f33e711] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f33e714]:
+              - link "YouTube" [ref=f33e715] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f33e718]:
+              - link "TikTok" [ref=f33e719] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f33e722]:
+              - link "LinkedIn" [ref=f33e723] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f33e726]:
+              - link "X" [ref=f33e727] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f33e730]:
+          - list [ref=f33e731]:
+            - heading "Pexels" [level=3] [ref=f33e732]
+            - listitem [ref=f33e733]:
+              - link "Free Stock Photos" [ref=f33e734] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f33e735]:
+              - link "Free Videos" [ref=f33e736] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f33e737]:
+              - link "Popular searches" [ref=f33e738] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f33e739]:
+              - link "Collections" [ref=f33e740] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f33e741]:
+              - link "Challenges" [ref=f33e742] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f33e743]:
+              - link "Leaderboard" [ref=f33e744] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f33e745]:
+              - link "Other plugins & apps" [ref=f33e746] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f33e747]:
+            - heading "Company" [level=3] [ref=f33e748]
+            - listitem [ref=f33e749]:
+              - link "About" [ref=f33e750] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f33e751]:
+              - link "Blog" [ref=f33e752] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f33e753]:
+              - link "Help Center" [ref=f33e754] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f33e755]:
+              - link "Report content" [ref=f33e756] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f33e757]:
+              - link "Become a Hero" [ref=f33e758] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f33e759]:
+              - link "Partner with Pexels" [ref=f33e760] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f33e761]:
+              - link "Image & Video API" [ref=f33e762] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f33e763]: Sign Up
+        - list [ref=f33e764]:
+          - listitem [ref=f33e765]:
+            - heading "Free Stock Photos" [level=3] [ref=f33e766]
+          - listitem [ref=f33e767]:
+            - generic [ref=f33e769]:
+              - link "Black and white photography" [ref=f33e771] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=f33e772] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=f33e773] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=f33e774] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=f33e775] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=f33e776] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Galaxy wallpaper" [ref=f33e777] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=f33e778] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=f33e779] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=f33e780] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=f33e781] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=f33e782] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=f33e783] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=f33e785]:
+        - generic [ref=f33e786]: © 2026 Pexels
+        - generic [ref=f33e788]:
+          - link "Terms of Use" [ref=f33e790] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f33e791] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f33e792] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f33e793] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f33e794] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f33e797] [cursor=pointer]
+      - separator [ref=f33e802]
+  - alert [ref=f33e803]

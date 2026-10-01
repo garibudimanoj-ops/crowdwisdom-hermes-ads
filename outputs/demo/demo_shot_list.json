@@ -1,0 +1,142 @@
+[
+  {
+    "shot_id": "shot_demo_01",
+    "start_seconds": 0,
+    "end_seconds": 10,
+    "visual": "Title card: 'CrowdWisdom Trading' and 'Hermes AI Marketing & Video Ads Agent' on dark premium background",
+    "source_file": "output_placeholder",
+    "text": "CrowdWisdom Trading\nHermes AI Marketing & Video Ads Agent",
+    "voiceover": "This is the Hermes AI Marketing and Video Ads Agent. It automatically researches the market, analyzes successful ads, creates marketing concepts, produces a cinematic ad, and verifies the result.",
+    "transition": "fade_in"
+  },
+  {
+    "shot_id": "shot_demo_02",
+    "start_seconds": 10,
+    "end_seconds": 15,
+    "visual": "Mission statement on dark background",
+    "source_file": "output_placeholder",
+    "text": "Automatically research the market, analyze successful ads, create marketing concepts, produce a cinematic ad, and verify the result.",
+    "voiceover": "All end-to-end. No manual steps.",
+    "transition": "fade"
+  },
+  {
+    "shot_id": "shot_demo_03",
+    "start_seconds": 15,
+    "end_seconds": 35,
+    "visual": "Animated agent pipeline with agent names: Ads Manager → Marketing Analyzer → Research Agent → Data Agent → Script Agent → Creative Director → Storyboard → Cinematography Agent → Video Production → Quality Agent",
+    "source_file": "output_placeholder",
+    "text": "The workflow runs ten specialized agents in sequence. Each one produces an artifact the next agent consumes.",
+    "voiceover": "The workflow runs ten specialized agents in sequence. Each one produces an artifact the next agent consumes.",
+    "transition": "animated_pipeline"
+  },
+  {
+    "shot_id": "shot_demo_04",
+    "start_seconds": 35,
+    "end_seconds": 45,
+    "visual": "ads.json stats: '45 ads collected' 'Meta Ads Library' '30-day lookback'",
+    "source_file": "outputs/ads/ads.json",
+    "text": "45 ads collected",
+    "voiceover": "First, the Ads Manager scrapes the Meta Ads Library. Over a 30-day window it collected 45 live trading advertisements.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_05",
+    "start_seconds": 45,
+    "end_seconds": 55,
+    "visual": "marketing_insights.json highlights: '36 insights' 'hooks' 'pain points' 'ICPs' 'emotional triggers' 'CTA patterns'",
+    "source_file": "outputs/insights/marketing_insights.json",
+    "text": "36 insights: hooks, pain points, ICPs, emotional triggers, CTA patterns",
+    "voiceover": "The Marketing Analyzer extracts 36 structured insights: hooks, pain points, ideal customer profiles, emotional triggers, and call-to-action patterns.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_06",
+    "start_seconds": 55,
+    "end_seconds": 65,
+    "visual": "research.json sample: '9 queries' '45 results' 'Tavily' 'Exa'",
+    "source_file": "outputs/research/research.json",
+    "text": "9 queries, 45 results, Tavily & Exa",
+    "voiceover": "The Research Agent validates those patterns against public web sources through Tavily and search API and Exa's semantic search.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_07",
+    "start_seconds": 65,
+    "end_seconds": 75,
+    "visual": "unique_data.json: 'ICP' 'Problem' 'Positioning' 'Methodology' 'Creative Intelligence'",
+    "source_file": "data/processed/unique_data.json",
+    "text": "ICP, problem, positioning, methodology, creative intelligence",
+    "voiceover": "The Data Agent structures the target audience, the problem statement, positioning, methodology, and the creative-intelligence dataset. All derived from public-source material.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_08",
+    "start_seconds": 75,
+    "end_seconds": 85,
+    "visual": "concept files: 3 concepts, 'Research → Concept → Narration → Storyboard'",
+    "source_file": "outputs/scripts/concept_1.json",
+    "text": "3 concepts generated",
+    "voiceover": "The Script Agent generates three competing concepts. The Creative Director selects one and produces the final narration and storyboard.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_09",
+    "start_seconds": 85,
+    "end_seconds": 95,
+    "visual": "final_storyboard.json: '5 scenes' '45 seconds' '9:16'",
+    "source_file": "outputs/storyboards/final_storyboard.json",
+    "text": "5 scenes, 45 seconds, 9:16 aspect ratio",
+    "voiceover": "The final storyboard defines five scenes over 45 seconds in a 9:16 vertical aspect ratio.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_10",
+    "start_seconds": 95,
+    "end_seconds": 110,
+    "visual": "Cinematography plan + asset manifest: '12 shots' '5 real_footage' '7 remotion' '3 production clips' 'Pexels asset'",
+    "source_file": "outputs/visual_prompts/full_cinematography_plan.json",
+    "text": "12-shot plan, 6 assets",
+    "voiceover": "The Cinematography Agent builds a 12-shot plan combining real footage, hybrid product visuals, and Remotion animation. The asset manifest tracks every source.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_11",
+    "start_seconds": 110,
+    "end_seconds": 125,
+    "visual": "shot_list.json + code files: '12 shots' '0-8s' '8-18s' '18-28s' '28-38s' '38-45s' '1080x1920' '30fps'",
+    "source_file": "outputs/video_production/shot_list.json",
+    "text": "12 shots with 0 gap/0 overlap across 5 scene boundaries",
+    "voiceover": "The shot list reconciles all 12 shots within five fixed scene boundaries with zero gaps and zero overlaps. The Remotion project composes the final video at 1080 by 1920, 30 frames per second.",
+    "transition": "slide_in"
+  },
+  {
+    "shot_id": "shot_demo_12",
+    "start_seconds": 125,
+    "end_seconds": 155,
+    "visual": "Final advertisement playback (outputs/videos/final_crowdwisdom_ad.mp4)",
+    "source_file": "outputs/videos/final_crowdwisdom_ad.mp4",
+    "text": "(video plays)",
+    "voiceover": "The final advertisement runs 45 seconds. It combines five real-footage shots with seven motion-graphics shots.",
+    "transition": "video_play"
+  },
+  {
+    "shot_id": "shot_demo_13",
+    "start_seconds": 155,
+    "end_seconds": 160,
+    "visual": "Technical specs on dark background: '45 seconds, 1080 × 1920, 30 FPS, H.264 + AAC'",
+    "source_file": "output_placeholder",
+    "text": "45 seconds, 1080 × 1920, 30 FPS, H.264 + AAC",
+    "voiceover": "45 seconds. 1080 by 1920. 30 frames per second. H.264 video with AAC audio.",
+    "transition": "fade"
+  },
+  {
+    "shot_id": "shot_demo_14",
+    "start_seconds": 160,
+    "end_seconds": 165,
+    "visual": "Closing diagram: INPUT → AI REASONING / AGENTS → ARTIFACTS → VIDEO PRODUCTION → FINAL RESULT",
+    "source_file": "output_placeholder",
+    "text": "INPUT → AI REASONING / AGENTS → ARTIFACTS → VIDEO PRODUCTION → FINAL RESULT",
+    "voiceover": "Input. AI reasoning and agents. Artifacts. Video production. Final result.",
+    "transition": "fade_out"
+  }
+]

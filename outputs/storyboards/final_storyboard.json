@@ -1,0 +1,180 @@
+{
+  "campaign": "CrowdWisdomTrading",
+  "title": "The Noise",
+  "duration_seconds": 45,
+  "aspect_ratio": "9:16",
+  "hook": {
+    "first_3_seconds": "Extreme close-up on trader's eyes darting left and right between monitors, conveying stress and information overload.",
+    "visual": "Extreme close-up of trader's eyes, reflection showing chaotic red/green signals on multiple monitors."
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "start_seconds": 0,
+      "end_seconds": 8,
+      "duration_seconds": 8,
+      "visual": "Extreme close-up of trader's eyes darting rapidly between monitors, showing chaotic red/green signals and text alerts. Screen reflections and visual noise multiply around the trader.",
+      "camera": "Static extreme close-up on eyes with slight handheld jitter to convey tension.",
+      "lighting": "Desk lamp light creates sharp reflections on glasses, mixed with the flickering light from monitors.",
+      "environment": "Trader's desk at night, multiple monitors in background, screen glow on face.",
+      "subject": "Trader's eyes and upper face.",
+      "action": "Eyes moving quickly between monitors, pupils dilating with stress. Information overload visualized as multiplying signals.",
+      "voiceover": "The problem is not a lack of information; it is the noise around it.",
+      "sound_effects": [
+        "Rapid, dissonant electronic glitches increasing in intensity",
+        "Subtle trader's breath",
+        "Keyboard tapping"
+      ],
+      "music_direction": "Fragmented, tense electronic motif begins.",
+      "transition": "Pull back to reveal the full desk setup.",
+      "on_screen_text": "",
+      "asset_requirements": [
+        "Trader actor close-up",
+        "Multiple monitors with signal feeds",
+        "Glasses for reflection",
+        "Night trader workspace"
+      ],
+      "data_references": [],
+      "compliance_notes": "Visual metaphor for information overload only. No performance claims.",
+      "risk_flags": []
+    },
+    {
+      "scene_id": 2,
+      "start_seconds": 8,
+      "end_seconds": 18,
+      "duration_seconds": 10,
+      "visual": "Pull back reveals split-screen: left shows chaotic signal flood (flashing red/green alerts, conflicting data streams), right shows CrowdWisdom's organized research panel with clean consensus indicators. Hand moves to toggle the CrowdWisdom view.",
+      "camera": "Slow pull back from close-up to wide desk shot, then subtle push-in on the active CrowdWisdom panel.",
+      "lighting": "Left side: harsh saturated monitor glow. Right side: cooler, more organized panel lighting.",
+      "environment": "Full desk setup at night, multiple monitors, ergonomic chair.",
+      "subject": "Trader's hand, split-screen monitors.",
+      "action": "Hand moves from keyboard to toggle switch, activating the CrowdWisdom filtered view. Left-side noise gradually recedes visually.",
+      "voiceover": "CrowdWisdom filters and scores market viewpoints rather than treating every opinion equally.",
+      "sound_effects": [
+        "Soft toggle click",
+        "Left-side noise begins to filter out",
+        "Right-side harmonic tone emerges"
+      ],
+      "music_direction": "Motif begins to cohere, chaotic layers resolve into structured rhythm.",
+      "transition": "Cut to close-up on the CrowdWisdom research panel.",
+      "on_screen_text": "",
+      "asset_requirements": [
+        "Split-screen monitor setup",
+        "Toggle switch",
+        "CrowdWisdom UI mockup",
+        "Professional trader workspace"
+      ],
+      "data_references": [],
+      "compliance_notes": "Visual explanation of filtering concept. No guaranteed outcomes depicted.",
+      "risk_flags": []
+    },
+    {
+      "scene_id": 3,
+      "start_seconds": 18,
+      "end_seconds": 28,
+      "duration_seconds": 10,
+      "visual": "Close-up on CrowdWisdom research panel: conviction, consensus, and recency scoring meters animate in. Weaker viewpoints fade while stronger ones organize into structured layers. Signal lines converge toward a central indicator.",
+      "camera": "Static close-up on the panel, slow tilt to follow converging signal lines.",
+      "lighting": "Cool digital panel illumination, subtle glow from active meters.",
+      "environment": "Right monitor of the split-screen, left side out of focus but still visible.",
+      "subject": "CrowdWisdom research panel UI, scoring meters.",
+      "action": "Bars and meters animate into place, signal lines flow and converge, forming a coherent direction.",
+      "voiceover": "Viewpoints are scored and synthesized using factors such as conviction, consensus, and recent performance.",
+      "sound_effects": [
+        "Soft mechanical scoring ticks",
+        "Digital interface confirmation sounds",
+        "Signal lines converging"
+      ],
+      "music_direction": "Pulse becomes rhythmic and unified, building toward resolution.",
+      "transition": "Cut to medium shot of the trader reviewing the structured setup.",
+      "on_screen_text": "",
+      "asset_requirements": [
+        "CrowdWisdom UI gauge animation",
+        "Scoring meters (Conviction, Consensus, Recency)",
+        "Signal convergence visualization",
+        "Digital interface elements"
+      ],
+      "data_references": [],
+      "compliance_notes": "Pure visual metaphor for scoring methodology. No specific confidence percentages or predictions.",
+      "risk_flags": []
+    },
+    {
+      "scene_id": 4,
+      "start_seconds": 28,
+      "end_seconds": 38,
+      "duration_seconds": 10,
+      "visual": "Medium shot: trader reviewing the structured research card showing direction, entry, stop, and targets. The card forms progressively with each element appearing. Left-side noise remains visible but out of focus and ignored.",
+      "camera": "Slow push-in on the research card with shallow depth of field blurring the noisy left screen.",
+      "lighting": "Research card emits a soft glow, left screen provides contrasting but de-emphasized light.",
+      "environment": "Desk, focus on the right monitor and the trader's focused expression.",
+      "subject": "Trader's hands/fingers, research card UI (direction, entry, stop, targets).",
+      "action": "Research card elements animate in: direction arrow, entry price, stop level, target levels. Trader's posture shifts from tension to focus.",
+      "voiceover": "Many viewpoints converge into a structured consensus view. Each idea is structured around direction, entry, stop, and targets.",
+      "sound_effects": [
+        "Left-side noise diminishes further",
+        "Right-side tone peaks and stabilizes",
+        "Card elements clicking into place"
+      ],
+      "music_direction": "Single melodic line emerges, calm and confident.",
+      "transition": "Cut to the trader leaning back as the platform resolves.",
+      "on_screen_text": "",
+      "asset_requirements": [
+        "Structured research card UI",
+        "Direction, entry, stop, targets elements",
+        "Trader actor medium shot",
+        "Shallow depth of field effect"
+      ],
+      "data_references": [],
+      "compliance_notes": "Structured research framework only. No execution, no guarantees, no broker claims.",
+      "risk_flags": []
+    },
+    {
+      "scene_id": 5,
+      "start_seconds": 38,
+      "end_seconds": 45,
+      "duration_seconds": 7,
+      "visual": "CrowdWisdom logo appears center screen with tagline 'Collective Intelligence for Traders' and a small compliance note. The trader is visible in the background, relaxed and in control, reinforcing that execution remains with the user.",
+      "camera": "Static wide shot, logo fades in from center, tagline slides up from below.",
+      "lighting": "Logo backlit with soft glow, ambient background light.",
+      "environment": "Dark background to focus on branding, faint trader silhouette visible.",
+      "subject": "CrowdWisdom logo, tagline, compliance note.",
+      "action": "Logo and text appear and hold. Trader silhouette nods in quiet confidence.",
+      "voiceover": "CrowdWisdom Trading is a research platform; you remain in control of execution.",
+      "sound_effects": [
+        "Soft resolution chime",
+        "Subtle room tone"
+      ],
+      "music_direction": "Melody holds briefly then fades to silence.",
+      "transition": "Fade to black.",
+      "on_screen_text": [
+        "Collective Intelligence for Traders",
+        "CrowdWisdom Trading is a research platform; you remain in control of execution."
+      ],
+      "asset_requirements": [
+        "CrowdWisdom logo animation",
+        "Tagline text",
+        "Compliance note typography"
+      ],
+      "data_references": [],
+      "compliance_notes": "Explicit research platform positioning. No execution claims. No performance guarantees. Clear responsible close.",
+      "risk_flags": []
+    }
+  ],
+  "cta": {
+    "voiceover": "Research the consensus at crowdwisdomtrading.com",
+    "visual": "The tagline 'Collective Intelligence for Traders' holds with a subtle text CTA 'Learn more at crowdwisdomtrading.com' at the bottom."
+  },
+  "compliance": {
+    "claims_supported": [
+      "The problem is not a lack of information; it is the noise around it",
+      "CrowdWisdom filters and scores market viewpoints rather than treating every opinion equally",
+      "Viewpoints are scored and synthesized using factors such as conviction, consensus, and recent performance",
+      "Many viewpoints converge into a structured consensus view",
+      "Each idea is structured around direction, entry, stop, and targets",
+      "CrowdWisdom Trading is a research platform; you remain in control of execution"
+    ],
+    "forbidden_claims_absent": true,
+    "compliance_reviewed": "2026-09-27T00:00:00Z",
+    "reviewer": "SeniorImplementationEngineer"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "execution_mode": "dry_run",
+  "overall_status": "completed",
+  "stages": [
+    {
+      "name": "ads",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.172760+00:00",
+      "completed_at": "2026-09-27T16:57:40.172769+00:00",
+      "outputs": {},
+      "error": null
+    },
+    {
+      "name": "marketing",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.172843+00:00",
+      "completed_at": "2026-09-27T16:57:40.172850+00:00",
+      "outputs": {},
+      "error": null
+    },
+    {
+      "name": "research",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.172896+00:00",
+      "completed_at": "2026-09-27T16:57:40.172902+00:00",
+      "outputs": {},
+      "error": null
+    },
+    {
+      "name": "data",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.172938+00:00",
+      "completed_at": "2026-09-27T16:57:40.172944+00:00",
+      "outputs": {},
+      "error": null
+    },
+    {
+      "name": "script",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.172962+00:00",
+      "completed_at": "2026-09-27T16:57:40.172988+00:00",
+      "outputs": {
+        "note": "dry_run: script stage exercised via fixtures"
+      },
+      "error": {
+        "mode": "dry_run",
+        "note": "dry_run fixture exercised"
+      }
+    },
+    {
+      "name": "creative_dir",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.173018+00:00",
+      "completed_at": "2026-09-27T16:57:40.173038+00:00",
+      "outputs": {
+        "note": "dry_run: creative director exercised via fixtures"
+      },
+      "error": {
+        "mode": "dry_run"
+      }
+    },
+    {
+      "name": "storyboard",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.173062+00:00",
+      "completed_at": "2026-09-27T16:57:40.173080+00:00",
+      "outputs": {
+        "note": "dry_run: storyboard exercised via fixtures"
+      },
+      "error": {
+        "mode": "dry_run"
+      }
+    },
+    {
+      "name": "video",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.173101+00:00",
+      "completed_at": "2026-09-27T16:57:40.173115+00:00",
+      "outputs": {
+        "note": "dry_run: video stage exercised via fixture"
+      },
+      "error": {
+        "mode": "dry_run"
+      }
+    },
+    {
+      "name": "quality",
+      "status": "completed",
+      "started_at": "2026-09-27T16:57:40.173136+00:00",
+      "completed_at": "2026-09-27T16:57:40.173152+00:00",
+      "outputs": {
+        "note": "dry_run: quality exercised via fixtures"
+      },
+      "error": {
+        "mode": "dry_run"
+      }
+    }
+  ],
+  "started_at": "2026-09-27T16:57:40.172580+00:00",
+  "completed_at": "2026-09-27T16:57:40.173230+00:00",
+  "errors": {},
+  "blockers": []
+}

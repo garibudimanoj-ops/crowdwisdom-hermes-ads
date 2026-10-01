@@ -1,0 +1,663 @@
+{
+  "generated_at": "2026-09-26T15:21:16.753458",
+  "source_file": "outputs\\ads\\ads.json",
+  "ads_analyzed": 20,
+  "ad_count": 20,
+  "total_insights": 36,
+  "insights": {
+    "hooks": [
+      {
+        "category": "hooks",
+        "observation": "Ad opens with a question claiming industry leadership: 'Most Loved 2-Step in The Industry?'",
+        "interpretation": "Leverages social proof and industry recognition to immediately establish credibility and attract traders seeking trusted platforms.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "hooks",
+        "observation": "Ad opens with triple credibility badges: 'Certified. Licensed. Verified.' accompanied by a scroll emoji.",
+        "interpretation": "Establishes authority and trustworthiness within seconds to differentiate from unverified signal providers in the forex space.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "hooks",
+        "observation": "Ad opens with a claim of being the first regulated exchange for event trading: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+        "interpretation": "Highlights uniqueness and regulatory compliance to attract attention and build trust in a novel trading product.",
+        "evidence": [
+          "ad 11",
+          "ad 12"
+        ],
+        "confidence": "low",
+        "source_ad_id": "2219116385539183",
+        "source_url": "http://itunes.apple.com/app/id1632713844",
+        "retrieved_at": "2026-08-13T07:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Kalshi - Trade the Headlines",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "hooks",
+        "observation": "Ad opens with a fire emoji and announcement: '🔥 The 200K account is here.'",
+        "interpretation": "Creates a sense of urgency and exclusivity by promoting a high-tier account option, appealing to ambitious traders.",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      }
+    ],
+    "pain_points": [
+      {
+        "category": "pain_points",
+        "observation": "Ad addresses the pain of following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+        "interpretation": "Targets frustration with unreliable and unaccountable forex signal providers, positioning the advertiser as a knowledgeable and accountable alternative.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": true
+      }
+    ],
+    "icps": [
+      {
+        "category": "icps",
+        "observation": "Ad targets traders by stating 'Loved by over 1M+ traders' and offering accounts starting at $36.",
+        "interpretation": "Ideal customer is a trader, potentially beginner or intermediate, seeking a trusted platform with low barrier to entry.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "icps",
+        "observation": "Ad addresses forex traders who follow signal channels, warning them to stop following unqualified providers.",
+        "interpretation": "Ideal customer is a forex trader currently using signal services, dissatisfied with lack of knowledge and accountability in existing providers.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "icps",
+        "observation": "Ad promotes trading on a broad range of topics including weather, entertainment scores, and rate cuts.",
+        "interpretation": "Ideal customer is interested in event-based trading, seeking opportunities beyond traditional financial markets, potentially including casual or novelty traders.",
+        "evidence": [
+          "ad 11",
+          "ad 12"
+        ],
+        "confidence": "low",
+        "source_ad_id": "2219116385539183",
+        "source_url": "http://itunes.apple.com/app/id1632713844",
+        "retrieved_at": "2026-08-13T07:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Kalshi - Trade the Headlines",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "icps",
+        "observation": "Ad offers two account options: 2-Step Pro at just $798 and FundingPips ZERO at just $998 for a 200K account.",
+        "interpretation": "Ideal customer is a trader seeking higher capital allocation ($200K), willing to pay for a proven challenge (2-Step Pro) or a higher upfront cost for zero-risk option (ZERO).",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      }
+    ],
+    "emotional_triggers": [
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad warns against following unqualified signal providers: 'Stop following channels that have no clue what they’re doing. They copy everything from us without knowledge, without accountability.'",
+        "interpretation": "Triggers fear of financial loss and frustration by highlighting the risks of following unverified forex signal providers.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad highlights high reward potential: 'Up to 100% Reward Split' and '160M+ Rewards Processed'.",
+        "interpretation": "Triggers greed by emphasizing the possibility of earning up to 100% of profits and showcasing extensive reward processing as evidence of earning opportunity.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad highlights extensive reward processing: '200M+ Rewards Processed'.",
+        "interpretation": "Triggers greed by showcasing a large volume of rewards processed, implying significant earning potential for traders.",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad announces availability with urgency: '🔥 The 200K account is here.'",
+        "interpretation": "Triggers fear of missing out (FOMO) by presenting a limited-time or exclusive high-capital account opportunity.",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad encourages starting a trading journey: 'Start your trading journey with us today!'",
+        "interpretation": "Evokes hope and aspiration by positioning the platform as the beginning of a successful trading path.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad states: 'Certified. Licensed. Verified.' and 'I’m the first in the forex space with an official diploma and licenses to provide signals.'",
+        "interpretation": "Triggers desire for security by emphasizing official credentials and being the first licensed provider in forex signals.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad states: 'Kalshi is the first regulated exchange dedicated to trading on the outcome of future events.'",
+        "interpretation": "Evokes sense of security and trust by highlighting regulatory approval, reducing fear of trading on an unregulated platform.",
+        "evidence": [
+          "ad 11",
+          "ad 12"
+        ],
+        "confidence": "low",
+        "source_ad_id": "2219116385539183",
+        "source_url": "http://itunes.apple.com/app/id1632713844",
+        "retrieved_at": "2026-08-13T07:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Kalshi - Trade the Headlines",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "emotional_triggers",
+        "observation": "Ad promotes trading on diverse topics: 'From the weather, to Rotten Tomato scores, to rate cuts, Kalshi allows people to trade on a broad range of topics.'",
+        "interpretation": "Triggers hope and excitement by presenting numerous opportunities to profit from everyday events and niche interests.",
+        "evidence": [
+          "ad 11",
+          "ad 12"
+        ],
+        "confidence": "low",
+        "source_ad_id": "2219116385539183",
+        "source_url": "http://itunes.apple.com/app/id1632713844",
+        "retrieved_at": "2026-08-13T07:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Kalshi - Trade the Headlines",
+        "source_fact": false,
+        "single_ad_observation": true
+      }
+    ],
+    "promises_offers": [
+      {
+        "category": "promises_offers",
+        "observation": "Ad offers accounts starting at $36: 'Account starting at $36'",
+        "interpretation": "Promises low barrier to entry, making trading accessible to beginners with limited capital.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad promises up to 100% reward split: 'Up to 100% Reward Split'",
+        "interpretation": "Offers the potential for traders to keep all profits earned, maximizing earning potential.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad states: '160M+ Rewards Processed'",
+        "interpretation": "Shows proof of concept and reliability by indicating over 160 million rewards have been processed.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad states: '200M+ Rewards Processed'",
+        "interpretation": "Demonstrates extensive scale and trust by showing over 200 million rewards processed globally.",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad states: '1.3M+ Traders'",
+        "interpretation": "Leverages social proof by showing a large and growing community of traders using the platform.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1966707590550667",
+        "source_url": "http://www.fundingpips.com/",
+        "retrieved_at": "2025-11-17T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad states: '1.5M+ Traders Worldwide'",
+        "interpretation": "Leverages social proof by showing a large and growing community of traders using the platform globally.",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad promises disciplined, scenario-based strategy with real structure: 'With us, you get discipline, scenario-based strategy, and real structure. No gambling. No noise.'",
+        "interpretation": "Offers a professional, educational approach to forex trading, distinguishing from random signal services.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad enables trading on diverse future events: 'From the weather, to Rotten Tomato scores, to rate cuts, Kalshi allows people to trade on a broad range of topics.'",
+        "interpretation": "Provides access to novel trading markets, allowing users to profit from predictions on non-traditional events.",
+        "evidence": [
+          "ad 11",
+          "ad 12"
+        ],
+        "confidence": "low",
+        "source_ad_id": "2219116385539183",
+        "source_url": "http://itunes.apple.com/app/id1632713844",
+        "retrieved_at": "2026-08-13T07:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Kalshi - Trade the Headlines",
+        "source_fact": false,
+        "single_ad_observation": true
+      },
+      {
+        "category": "promises_offers",
+        "observation": "Ad offers two account options for 200K funding: '2-Step Pro at just $798' and 'FundingPips ZERO at just $998'",
+        "interpretation": "Provides flexible pathways to access higher trading capital, catering to different risk preferences and financial situations.",
+        "evidence": [
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      }
+    ],
+    "cta_patterns": [
+      {
+        "category": "cta_patterns",
+        "observation": "Ad uses a direct call-to-action: 'Start your trading journey with us today!'",
+        "interpretation": "Encourages immediate action by framing trading as a journey to begin now, reducing procrastination.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": true
+      }
+    ],
+    "visual_structures": [
+      {
+        "category": "visual_structures",
+        "observation": "Ad uses check mark emojis (✅) to bullet-point key features: account minimums, reward splits, rewards processed, trader counts.",
+        "interpretation": "Visually highlights benefits and credibility markers in an easy-to-scan format, improving readability and emphasis.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "visual_structures",
+        "observation": "Ad includes a pointing finger emoji (👉) before the call-to-action URL.",
+        "interpretation": "Visually directs attention to the CTA link, increasing click-through likelihood through implicit guidance.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "visual_structures",
+        "observation": "Ad uses contextually relevant emojis to section content and convey meaning (e.g., 📜 for credentials, 🛑 for warnings, 📈 for growth, 🔥 for opportunity).",
+        "interpretation": "Uses relevant emojis to quickly convey tone and section meaning, enhancing visual storytelling and emotional impact.",
+        "evidence": [
+          "ad 4",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "visual_structures",
+        "observation": "Ad employs clear line breaks and spacing to separate sections: headline, bullet points, and call-to-action.",
+        "interpretation": "Improves readability and scannability by visually chunking information into digestible blocks.",
+        "evidence": [
+          "ad 3",
+          "ad 4",
+          "ad 7",
+          "ad 9",
+          "ad 11",
+          "ad 12",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "visual_structures",
+        "observation": "Ad concludes with industry hashtags: '#forex #trading'",
+        "interpretation": "Leverages platform-specific features to increase discoverability and signal relevance to target audience.",
+        "evidence": [
+          "ad 4"
+        ],
+        "confidence": "low",
+        "source_ad_id": "732363262964757",
+        "source_url": "https://www.instagram.com/_u/goldhunternow",
+        "retrieved_at": "2026-01-22T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Reelsgoldhunter",
+        "source_fact": false,
+        "single_ad_observation": false
+      }
+    ],
+    "recurring_patterns": [
+      {
+        "category": "recurring_patterns",
+        "observation": "Multiple ads emphasize legitimacy and trust through credentials, regulation, or large user bases: e.g., 'Certified. Licensed. Verified.', 'first regulated exchange', and citing over 1M+ traders.",
+        "interpretation": "Industry-wide trend to build trust in financial trading products by highlighting regulatory compliance, official credentials, and social proof to combat perceptions of risk and scams.",
+        "evidence": [
+          "ad 3",
+          "ad 4",
+          "ad 7",
+          "ad 9",
+          "ad 11",
+          "ad 12",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "recurring_patterns",
+        "observation": "Several ads highlight specific, tangible benefits to reduce barriers to entry: low minimum account funding ($36), low-cost challenge fees ($798-$998 for 200K account), and access to novel trading markets (events, weather, etc.).",
+        "interpretation": "Common strategy to attract new traders by minimizing financial risk and complexity, making trading appear accessible and low-commitment.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9",
+          "ad 11",
+          "ad 12",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "recurring_patterns",
+        "observation": "Multiple ads use a clear, action-oriented call-to-action with time-sensitive language: 'Start your trading journey with us today!'",
+        "interpretation": "Widespread use of direct CTAs that frame trading as a journey beginning immediately, reducing hesitation and procrastination.",
+        "evidence": [
+          "ad 3",
+          "ad 7",
+          "ad 9",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      },
+      {
+        "category": "recurring_patterns",
+        "observation": "Several ads use emojis and visual formatting (check marks, line breaks, thematic icons) to enhance readability and highlight key points: e.g., 📜, ✅, 👉, 🔥, 🛑, 📈.",
+        "interpretation": "Visual optimization for mobile consumption, using symbols and spacing to convey information quickly and engage users scrolling through feeds.",
+        "evidence": [
+          "ad 3",
+          "ad 4",
+          "ad 7",
+          "ad 9",
+          "ad 13"
+        ],
+        "confidence": "low",
+        "source_ad_id": "1396148391981854",
+        "source_url": "https://fundingpips.com/",
+        "retrieved_at": "2026-01-27T08:00:00.000Z",
+        "source_field": "ad_text",
+        "advertiser": "Fundingpips",
+        "source_fact": false,
+        "single_ad_observation": false
+      }
+    ]
+  },
+  "limitations": [],
+  "source_metadata": {
+    "platform": "Meta Ads Library",
+    "actor": "apify/facebook-ads-scraper",
+    "sdk_version": "3.2.0"
+  }
+}

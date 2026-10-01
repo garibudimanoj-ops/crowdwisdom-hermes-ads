@@ -1,0 +1,60 @@
+{
+  "project": "CrowdWisdom Trading",
+  "title": "Hermes AI Marketing & Video Ads Agent — Project Demo",
+  "description": "A technical presentation demonstrating the multi-agent AI workflow that researches the market, analyzes advertising patterns, generates marketing concepts, produces a cinematic advertisement, and verifies the result.",
+  "total_duration_seconds": 165,
+  "target_resolution": "1920x1080",
+  "target_fps": 30,
+  "style": "clean technical presentation — dark premium background, simple animations, screenshot overlays, subtle zoom/pan, minimal text, readable sans-serif labels",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_seconds": 0,
+      "end_seconds": 15,
+      "label": "Project introduction",
+      "description": "Title card and mission statement explaining the Hermes agent's end-to-end capability."
+    },
+    {
+      "segment_id": 2,
+      "start_seconds": 15,
+      "end_seconds": 35,
+      "label": "Agent workflow",
+      "description": "Animated pipeline showing the full multi-agent chain from ads collection through quality verification."
+    },
+    {
+      "segment_id": 3,
+      "start_seconds": 35,
+      "end_seconds": 55,
+      "label": "Ads intelligence",
+      "description": "Show collected ads data, marketing hooks, pain points, and recurring advertising patterns."
+    },
+    {
+      "segment_id": 4,
+      "start_seconds": 55,
+      "end_seconds": 75,
+      "label": "CrowdWisdom research",
+      "description": "Present research findings: ICP, problem framing, positioning, methodology, and creative-intelligence dataset provenance."
+    },
+    {
+      "segment_id": 5,
+      "start_seconds": 75,
+      "end_seconds": 95,
+      "label": "Script + storyboard",
+      "description": "Show the creative pipeline: research to concept to narration to final storyboard."
+    },
+    {
+      "segment_id": 6,
+      "start_seconds": 95,
+      "end_seconds": 120,
+      "label": "Cinematography + assets",
+      "description": "Present the 12-shot cinematography plan and asset manifest."
+    },
+    {
+      "segment_id": 7,
+      "start_seconds": 120,
+      "end_seconds": 165,
+      "label": "Final result",
+      "description": "Play the final 45-second advertisement and display technical specs."
+    }
+  ]
+}

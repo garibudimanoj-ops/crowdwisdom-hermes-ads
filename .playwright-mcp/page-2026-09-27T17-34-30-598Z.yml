@@ -1,0 +1,325 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=e13]:
+        - generic [ref=e14]:
+          - button "Photos" [ref=e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=e24]: trader multiple monitors
+          - button [ref=e26] [cursor=pointer]
+      - generic [ref=e30]:
+        - link "Explore" [ref=e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=e39] [cursor=pointer]
+        - button "Join" [ref=e42] [cursor=pointer]
+    - main [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e50]:
+          - paragraph [ref=e52] [cursor=pointer]: Any
+          - paragraph [ref=e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=e62] [cursor=pointer]: Vertical
+          - paragraph [ref=e67] [cursor=pointer]: Square
+        - generic [ref=e71]:
+          - paragraph [ref=e73] [cursor=pointer]: Any
+          - paragraph [ref=e75] [cursor=pointer]: "0"
+          - paragraph [ref=e80] [cursor=pointer]: "1"
+          - paragraph [ref=e85] [cursor=pointer]: "2"
+          - paragraph [ref=e90] [cursor=pointer]: 3+
+        - generic [ref=e94]:
+          - paragraph [ref=e96] [cursor=pointer]: Any
+          - paragraph [ref=e101] [cursor=pointer]: Baby
+          - paragraph [ref=e106] [cursor=pointer]: Child
+          - paragraph [ref=e111] [cursor=pointer]: Teenager
+          - paragraph [ref=e116] [cursor=pointer]: Adult
+          - paragraph [ref=e121] [cursor=pointer]: Senior adult
+        - generic [ref=e668]:
+          - generic [ref=e669]:
+            - generic [ref=e670] [cursor=pointer]
+            - slider [ref=e672] [cursor=pointer]
+            - slider [ref=e673] [cursor=pointer]
+          - generic [ref=e674]:
+            - generic [ref=e675]:
+              - paragraph [ref=e676]: Minimum
+              - paragraph [ref=e677]: 5s
+            - generic [ref=e678]:
+              - paragraph [ref=e679]: Maximum
+              - paragraph [ref=e680]: 2m+
+        - generic [ref=e684]:
+          - paragraph [ref=e686] [cursor=pointer]: Any
+          - paragraph [ref=e691] [cursor=pointer]: "24"
+          - paragraph [ref=e696] [cursor=pointer]: "25"
+          - paragraph [ref=e701] [cursor=pointer]: "30"
+          - paragraph [ref=e706] [cursor=pointer]: "50"
+          - paragraph [ref=e711] [cursor=pointer]: 60+
+        - generic [ref=e715]:
+          - paragraph [ref=e717] [cursor=pointer]: Any
+          - paragraph [ref=e722] [cursor=pointer]: 1080p
+          - paragraph [ref=e727] [cursor=pointer]: 4K
+          - paragraph [ref=e732] [cursor=pointer]: 8K
+        - generic [ref=e175]:
+          - paragraph [ref=e177] [cursor=pointer]: Any
+          - paragraph [ref=e182] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=e187] [cursor=pointer]: Last week
+          - paragraph [ref=e192] [cursor=pointer]: Last month
+          - paragraph [ref=e197] [cursor=pointer]: Last year
+        - main "main-content" [ref=e198]:
+          - generic [ref=e199]:
+            - heading "Free Trader Multiple Monitors Videos" [level=1] [ref=e733]
+            - generic [ref=e205]:
+              - link "Photos 15.3K" [ref=e207] [cursor=pointer]:
+                - /url: /search/trader%20multiple%20monitors/
+                - text: Photos
+                - generic [ref=e208]: 15.3K
+              - link "Videos 7K" [active] [ref=e209] [cursor=pointer]:
+                - /url: /search/videos/trader%20multiple%20monitors/
+                - text: Videos
+                - generic [ref=e210]: 7K
+              - link "Users 5.1K" [ref=e211] [cursor=pointer]:
+                - /url: /search/users/trader%20multiple%20monitors/
+                - text: Users
+                - generic [ref=e212]: 5.1K
+            - generic [ref=e214]:
+              - button "Filters" [ref=e216] [cursor=pointer]
+              - separator [ref=e734]
+              - generic [ref=e738]:
+                - link [ref=e740] [cursor=pointer]:
+                  - /url: /search/videos/trader/
+                  - img "trader" [ref=e741]
+                  - generic [ref=e742]:
+                    - paragraph [ref=e743]: trader
+                    - paragraph [ref=e744]: 4K
+                - link [ref=e745] [cursor=pointer]:
+                  - /url: /search/videos/stock%20market%20trading/
+                  - img "stock market trading" [ref=e746]
+                  - generic [ref=e747]:
+                    - paragraph [ref=e748]: stock market trading
+                    - paragraph [ref=e749]: 22K
+                - link [ref=e750] [cursor=pointer]:
+                  - /url: /search/videos/stock%20trading/
+                  - img "stock trading" [ref=e751]
+                  - generic [ref=e752]:
+                    - paragraph [ref=e753]: stock trading
+                    - paragraph [ref=e754]: 12K
+                - link [ref=e755] [cursor=pointer]:
+                  - /url: /search/videos/forex%20trading/
+                  - img "forex trading" [ref=e756]
+                  - generic [ref=e757]:
+                    - paragraph [ref=e758]: forex trading
+                    - paragraph [ref=e759]: 9K
+                - link [ref=e760] [cursor=pointer]:
+                  - /url: /search/videos/stock%20market%20screen/
+                  - img "stock market screen" [ref=e761]
+                  - generic [ref=e762]:
+                    - paragraph [ref=e763]: stock market screen
+                    - paragraph [ref=e764]: 28K
+                - link [ref=e765] [cursor=pointer]:
+                  - /url: /search/videos/trading/
+                  - img "trading" [ref=e766]
+                  - generic [ref=e767]:
+                    - paragraph [ref=e768]: trading
+                    - paragraph [ref=e769]: 4K
+                - link [ref=e770] [cursor=pointer]:
+                  - /url: /search/videos/crypto%20trading/
+                  - img "crypto trading" [ref=e771]
+                  - generic [ref=e772]:
+                    - paragraph [ref=e773]: crypto trading
+                    - paragraph [ref=e774]: 3K
+                - link [ref=e775] [cursor=pointer]:
+                  - /url: /search/videos/trading%20floor/
+                  - img "trading floor" [ref=e776]
+                  - generic [ref=e777]:
+                    - paragraph [ref=e778]: trading floor
+                    - paragraph [ref=e779]: 10K
+                - link [ref=e780] [cursor=pointer]:
+                  - /url: /search/videos/stock%20market/
+                  - img "stock market" [ref=e781]
+                  - generic [ref=e782]:
+                    - paragraph [ref=e783]: stock market
+                    - paragraph [ref=e784]: 4K
+                - link [ref=e785] [cursor=pointer]:
+                  - /url: /search/videos/trading%20charts/
+                  - img "trading charts" [ref=e786]
+                  - generic [ref=e787]:
+                    - paragraph [ref=e788]: trading charts
+                    - paragraph [ref=e789]: 10K
+                - link [ref=e790] [cursor=pointer]:
+                  - /url: /search/videos/broker/
+                  - img "broker" [ref=e791]
+                  - generic [ref=e792]:
+                    - paragraph [ref=e793]: broker
+                    - paragraph [ref=e794]: 4K
+                - link [ref=e795] [cursor=pointer]:
+                  - /url: /search/videos/forex/
+                  - img "forex" [ref=e796]
+                  - generic [ref=e797]:
+                    - paragraph [ref=e798]: forex
+                    - paragraph [ref=e799]: 4K
+                - link [ref=e800] [cursor=pointer]:
+                  - /url: /search/videos/data%20analyst/
+                  - img "data analyst" [ref=e801]
+                  - generic [ref=e802]:
+                    - paragraph [ref=e803]: data analyst
+                    - paragraph [ref=e804]: 4K
+                - link [ref=e805] [cursor=pointer]:
+                  - /url: /search/videos/software%20developer/
+                  - img "software developer" [ref=e806]
+                  - generic [ref=e807]:
+                    - paragraph [ref=e808]: software developer
+                    - paragraph [ref=e809]: 40K
+                - link [ref=e810] [cursor=pointer]:
+                  - /url: /search/videos/computer%20working/
+                  - img "computer working" [ref=e811]
+                  - generic [ref=e812]:
+                    - paragraph [ref=e813]: computer working
+                    - paragraph [ref=e814]: 55K
+                - link [ref=e815] [cursor=pointer]:
+                  - /url: /search/videos/trading%20chart/
+                  - img "trading chart" [ref=e816]
+                  - generic [ref=e817]:
+                    - paragraph [ref=e818]: trading chart
+                    - paragraph [ref=e819]: 4K
+                - img [ref=e820] [cursor=pointer]
+            - navigation [ref=e888]:
+              - generic [ref=e890]:
+                - link "1" [ref=e892]:
+                  - /url: /search/videos/trader%20multiple%20monitors/
+                - link "2" [ref=e895] [cursor=pointer]:
+                  - /url: /search/videos/trader%20multiple%20monitors/?page=2
+                - link "3" [ref=e898] [cursor=pointer]:
+                  - /url: /search/videos/trader%20multiple%20monitors/?page=3
+                - link "4" [ref=e901] [cursor=pointer]:
+                  - /url: /search/videos/trader%20multiple%20monitors/?page=4
+                - link "5" [ref=e904] [cursor=pointer]:
+                  - /url: /search/videos/trader%20multiple%20monitors/?page=5
+                - link "6" [ref=e907] [cursor=pointer]:
+                  - /url: /search/videos/trader%20multiple%20monitors/?page=6
+                - link "Next" [ref=e910] [cursor=pointer]:
+                  - /url: /search/videos/trader%20multiple%20monitors/?page=2
+    - contentinfo [ref=e536]:
+      - separator [ref=e537]
+      - generic [ref=e538]:
+        - generic [ref=e539]:
+          - heading "Where stories come together." [level=2] [ref=e540]
+          - generic [ref=e541]:
+            - link "Download on iOS" [ref=e542] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=e545] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=e548]:
+            - listitem [ref=e549]:
+              - link "Instagram" [ref=e550] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=e553]:
+              - link "Threads" [ref=e554] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=e557]:
+              - link "YouTube" [ref=e558] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=e561]:
+              - link "TikTok" [ref=e562] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=e565]:
+              - link "LinkedIn" [ref=e566] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=e569]:
+              - link "X" [ref=e570] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=e573]:
+          - list [ref=e574]:
+            - heading "Pexels" [level=3] [ref=e575]
+            - listitem [ref=e576]:
+              - link "Free Stock Photos" [ref=e577] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e578]:
+              - link "Free Videos" [ref=e579] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=e580]:
+              - link "Popular searches" [ref=e581] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=e582]:
+              - link "Collections" [ref=e583] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=e584]:
+              - link "Challenges" [ref=e585] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=e586]:
+              - link "Leaderboard" [ref=e587] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=e588]:
+              - link "Other plugins & apps" [ref=e589] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=e590]:
+            - heading "Company" [level=3] [ref=e591]
+            - listitem [ref=e592]:
+              - link "About" [ref=e593] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e594]:
+              - link "Blog" [ref=e595] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e596]:
+              - link "Help Center" [ref=e597] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=e598]:
+              - link "Report content" [ref=e599] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=e600]:
+              - link "Become a Hero" [ref=e601] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=e602]:
+              - link "Partner with Pexels" [ref=e603] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=e604]:
+              - link "Image & Video API" [ref=e605] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=e606]: Sign Up
+        - list [ref=e607]:
+          - listitem [ref=e608]:
+            - heading "Free Stock Photos" [level=3] [ref=e609]
+          - listitem [ref=e610]:
+            - generic [ref=e612]:
+              - link "Black and white photography" [ref=e614] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=e615] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=e616] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=e617] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=e618] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=e619] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Galaxy wallpaper" [ref=e620] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=e621] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=e622] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=e623] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=e624] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=e625] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=e626] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=e628]:
+        - generic [ref=e629]: © 2026 Pexels
+        - generic [ref=e631]:
+          - link "Terms of Use" [ref=e633] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=e634] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=e635] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=e636] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=e637] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=e640] [cursor=pointer]
+      - separator [ref=e645]
+  - alert [ref=e646]: Trader Multiple Monitors Videos, Download The BEST Free 4k Stock Video Footage & Trader Multiple Monitors HD Video Clips
+  - status [ref=e647]

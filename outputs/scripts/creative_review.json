@@ -1,0 +1,419 @@
+{
+  "concepts": [
+    {
+      "concept_id": 1,
+      "track": "general",
+      "title": "The Smart Trader's Edge",
+      "target_icp": "Ambitious traders seeking systematic advantage",
+      "hook": "Trader stares at complex chart patterns, frustrated",
+      "story": "Trader discovers CrowdWisdom's data platform delivering structured analytics for confident decisions",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "timing": "0-8",
+          "visuals": "Trader squinting at chaotic multi-timeframe chart with conflicting indicators",
+          "narration": "Markets overwhelm with complexity, leaving even experienced traders second-guessing.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Chart scrolling sounds, frustrated sigh",
+          "music": "Tense, uncertain ambient pad",
+          "transitions": "cut",
+          "product_appearance": false,
+          "cta": false
+        },
+        {
+          "scene_id": "2",
+          "timing": "8-15",
+          "visuals": "Hands typing on keyboard, CrowdWisdom dashboard loading with clean data panels",
+          "narration": "CrowdWisdom gives you institutional-grade analytics, simplified for your edge.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Keyboard typing, clean dashboard whoosh",
+          "music": "Hopeful piano melody enters",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "3",
+          "timing": "15-25",
+          "visuals": "Split screen: left shows raw market chaos, right shows CrowdWisdom's clear directional signal with probability bands",
+          "narration": "See through the noise: probability-weighted direction, volatility context, and conviction metrics.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Left: chaotic noise, Right: clear harmonic tone",
+          "music": "Melody gains confidence and clarity",
+          "transitions": "wipe",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "4",
+          "timing": "25-35",
+          "visuals": "Trader reviewing trade plan on CrowdWisdom: entry, stop, target, risk-reward ratio displayed",
+          "narration": "Every idea includes structured risk management: defined entry, stop, and target levels.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Soft confirm clicks as each level is set",
+          "music": "Steady, confident rhythm",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "5",
+          "timing": "35-45",
+          "visuals": "Trader placing trade with calm confidence, CrowdWisdom logo with tagline",
+          "narration": "Trade with clarity, not certainty. Your edge comes from better information, not guarantees.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Confident trade execution click, soft resolution tone",
+          "music": "Melody resolves to major chord, then fades",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": true
+        }
+      ],
+      "narration": "Markets overwhelm with complexity, leaving even experienced traders second-guessing. CrowdWisdom gives you institutional-grade analytics, simplified for your edge. See through the noise: probability-weighted direction, volatility context, and conviction metrics. Every idea includes structured risk management: defined entry, stop, and target levels. Trade with clarity, not certainty. Your edge comes from better information, not guarantees.",
+      "visual_direction": "Start with trader frustration in chaotic charts; transition to clean CrowdWisdom dashboard; show split-screen contrast of raw data vs. refined signals; end with confident trade execution",
+      "sound_direction": "Chaotic market noise resolves into clear, harmonic tones as CrowdWisdom filters signal; confident trade execution click",
+      "music_direction": "Tense uncertain pad → hopeful piano → confident rhythm → resolving major chord",
+      "minimal_text": "Trade with clarity, not certainty",
+      "cta": "Start your free trial at crowdwisdomtrading.com",
+      "duration": 45,
+      "evidence": [
+        "CrowdWisdom provides institutional-grade analytics simplified for traders",
+        "Platform offers probability-weighted direction, volatility context, and conviction metrics",
+        "Each trade idea includes structured risk management with defined entry, stop, and target levels"
+      ],
+      "source_fact_claims": [
+        "CrowdWisdom provides institutional-grade analytics, simplified for traders (implied from product descriptions)",
+        "Platform offers probability-weighted direction, volatility context, and conviction metrics (derived from CWT-METH-003 factors)",
+        "Each trade idea includes structured risk management with defined entry, stop, and target levels (CWT-BRAND-006, CWT-METH-005)"
+      ],
+      "creative_interpretation_claims": [
+        "Chart chaos to dashboard clarity as visual metaphor for complexity reduction",
+        "Probability bands visualization as representation of conviction metrics",
+        "Structured risk management display as standard trading interface component"
+      ],
+      "limitations": [
+        "Platform provides analytics and research; execution decisions remain with the trader",
+        "Probability-weighted direction indicates likelihood, not certainty of outcome",
+        "Past performance examples do not guarantee future results"
+      ],
+      "provenance": {
+        "CWT-BRAND-006": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "product_function",
+          "verification_status": "Public product description"
+        },
+        "CWT-METH-005": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "product_function",
+          "verification_status": "Public product description"
+        }
+      }
+    },
+    {
+      "concept_id": 2,
+      "track": "unique_data",
+      "title": "From Signal Noise to Structured Consensus",
+      "target_icp": "Solo traders overwhelmed by conflicting viewpoints across many signal sources",
+      "hook": "Trader's screen buried under dozens of conflicting signal alerts",
+      "story": "A solo trader drowning in conflicting market viewpoints discovers CrowdWisdom filtering and scoring signals into a single structured consensus with entry, stop, and targets",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "timing": "0-8",
+          "visuals": "Trader's monitor wall flooded with dozens of overlapping buy/sell alerts, ticker streams, and chat windows creating visual chaos",
+          "narration": "The problem is not a lack of information; it is the noise around it.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Overlapping ticker beeps, alert chimes, and chat notifications",
+          "music": "Chaotic, layered electronic hum with competing rhythms",
+          "transitions": "jump cut",
+          "product_appearance": false,
+          "cta": false
+        },
+        {
+          "scene_id": "2",
+          "timing": "8-18",
+          "visuals": "A funnel visualization draws signals from the chaos; weaker signals dim and drop out while stronger ones pass through",
+          "narration": "CrowdWisdom filters and scores market viewpoints rather than treating every opinion equally.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Weaker alerts fade into background; a filtering whoosh removes low-quality signals",
+          "music": "Chaotic layers begin dropping out, leaving a steadier pulse",
+          "transitions": "morph",
+          "product_appearance": false,
+          "cta": false
+        },
+        {
+          "scene_id": "3",
+          "timing": "18-28",
+          "visuals": "Remaining signals flow into individual scoring meters labeled Conviction, Consensus, and Recency; colored bars indicate how each viewpoint contributes to the group score",
+          "narration": "Viewpoints are scored and synthesized using factors such as conviction, consensus, and recent performance.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Soft mechanical scoring sounds, each meter ticking into place",
+          "music": "Pulse becomes rhythmic and unified",
+          "transitions": "dissolve",
+          "product_appearance": false,
+          "cta": false
+        },
+        {
+          "scene_id": "4",
+          "timing": "28-38",
+          "visuals": "All viewpoint streams converge into a single clean panel showing direction (arrow), entry price, stop-loss, and profit targets",
+          "narration": "Many viewpoints converge into a structured consensus view. Each idea is structured around direction, entry, stop, and targets.",
+          "dialogue": "",
+          "text": "",
+          "sound": "A single clear chime as the consensus solidifies",
+          "music": "Single melodic line emerges, calm and confident",
+          "transitions": "wipe",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "5",
+          "timing": "38-45",
+          "visuals": "CrowdWisdom logo appears with tagline 'Collective Intelligence for Traders' and a subtle disclaimer below",
+          "narration": "CrowdWisdom Trading is a research platform; you remain in control of execution.",
+          "dialogue": "",
+          "text": "Collective Intelligence for Traders",
+          "sound": "Soft resolution tone",
+          "music": "Melody holds briefly then fades",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": true
+        }
+      ],
+      "narration": "The problem is not a lack of information; it is the noise around it. CrowdWisdom filters and scores market viewpoints rather than treating every opinion equally. Many viewpoints converge into a structured consensus view, with each idea structured around direction, entry, stop-loss, and targets. CrowdWisdom Trading is a research platform; you remain in control of execution.",
+      "visual_direction": "Start with high-contrast chaotic signal flood; funnel visualization gradually simplifies to a clean, single consensus panel; end with CrowdWisdom branding and a small responsible disclaimer",
+      "sound_direction": "Layered conflicting alerts gradually filtered out; scoring meters tick into a unified pulse; single clear chime at consensus reveal",
+      "music_direction": "Chaotic layered electronic texture resolves to a single calm melodic line",
+      "minimal_text": "Collective Intelligence for Traders",
+      "cta": "Learn more at crowdwisdomtrading.com",
+      "duration": 45,
+      "evidence": [
+        "CWT-BRAND-001: CrowdWisdom Trading is a collective-intelligence platform for traders.",
+        "CWT-BRAND-004: The problem is not a lack of information; it is the noise around it.",
+        "CWT-BRAND-005: CrowdWisdom turns many market viewpoints into a structured consensus view.",
+        "CWT-BRAND-006: Structured setups include entry, stop-loss, and targets.",
+        "CWT-PHIL-003: CrowdWisdom filters and scores market viewpoints rather than treating every opinion equally.",
+        "CWT-METH-002: Lower-quality signals are filtered out.",
+        "CWT-METH-003: Viewpoints are scored using conviction, consensus, and recent performance.",
+        "CWT-METH-005: Each idea is structured around direction, entry, stop, and targets.",
+        "CWT-METH-006: User remains in control of execution.",
+        "CWT-RISK-001: Use attribution and risk-defined language instead of guarantees."
+      ],
+      "source_fact_claims": [
+        "CrowdWisdom is described as a collective-intelligence platform for traders (CWT-BRAND-001).",
+        "CrowdWisdom filtering and scoring of market viewpoints is described by the company (CWT-PHIL-003, CWT-METH-002, CWT-METH-003).",
+        "Structured setups with entry, stop-loss, and targets are described by the company (CWT-BRAND-006, CWT-METH-005).",
+        "CrowdWisdom positions itself as a research platform where the user controls execution (CWT-METH-006).",
+        "The solo-trading-as-data-gap framing is a company-published problem statement (CWT-ICP-003)."
+      ],
+      "creative_interpretation_claims": [
+        "Funnel visualization as a metaphorical representation of signal filtering",
+        "Scoring meters labeled Conviction/Consensus/Recency as visual representations of the company-described methodology (not confirmed technical implementation details)",
+        "Viewpoint streams converging into a single panel as a visual metaphor for consensus formation"
+      ],
+      "limitations": [
+        "16,564 tracked trader count is a company-claimed figure (CWT-BRAND-003), not independently verified.",
+        "526 tracked predictions and 410 positive outcomes are a company-published example (CWT-CASE-004), not independently verified and does not imply future performance.",
+        "CrowdWisdom's filtering and scoring methodology is described but technical details are not fully disclosed (CWT-METH-003).",
+        "No cryptographic, hash, or blockchain technology is claimed; funnel and convergence are creative visual metaphors only.",
+        "The platform provides research; execution is controlled by the user (CWT-METH-006)."
+      ],
+      "provenance": {
+        "CWT-BRAND-001": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "brand_positioning",
+          "verification_status": "Source-stated; not independently verified"
+        },
+        "CWT-BRAND-004": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "core_narrative",
+          "verification_status": "Repeated site positioning"
+        },
+        "CWT-BRAND-005": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "product_narrative",
+          "verification_status": "Source-derived positioning"
+        },
+        "CWT-BRAND-006": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "product_function",
+          "verification_status": "Public product description"
+        },
+        "CWT-PHIL-003": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "methodology_claim",
+          "verification_status": "Company-described methodology"
+        },
+        "CWT-METH-002": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "methodology_claim",
+          "verification_status": "Company-described"
+        },
+        "CWT-METH-003": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "methodology_claim",
+          "verification_status": "Company-described; formulas not public"
+        },
+        "CWT-METH-005": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "product_function",
+          "verification_status": "Public product description"
+        },
+        "CWT-METH-006": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "platform_disclaimer",
+          "verification_status": "Public site statement"
+        },
+        "CWT-ICP-003": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "company_published_problem",
+          "verification_status": "Company-published framing"
+        },
+        "CWT-RISK-001": {
+          "source_url": "N/A",
+          "claim_type": "compliance_guardrail",
+          "verification_status": "Research-package guardrail"
+        }
+      }
+    },
+    {
+      "concept_id": 3,
+      "track": "general",
+      "title": "Trading Without Guesswork",
+      "target_icp": "Traders tired of unreliable signal services",
+      "hook": "Trader closes losing trade, frustrated with bad signal",
+      "story": "Trader realizes most signal services lack accountability, discovers CrowdWisdom's transparent track record approach",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "timing": "0-7",
+          "visuals": "Trader staring at red losing trade on screen, signal service notification pops up with another 'sure thing' alert",
+          "narration": "Tired of signal services that vanish when their calls go wrong?",
+          "dialogue": "",
+          "text": "",
+          "sound": "Notification ding, frustrated exhale",
+          "music": "Low, dissonant tension building",
+          "transitions": "cut",
+          "product_appearance": false,
+          "cta": false
+        },
+        {
+          "scene_id": "2",
+          "timing": "7-14",
+          "visuals": "Screen splits: left shows dozens of signal services with no track records, right shows CrowdWisdom's transparent performance dashboard",
+          "narration": "Most services hide their results. CrowdWisdom believes in transparent, attributable performance.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Left: error buzz, Right: clean dashboard chime",
+          "music": "Tension begins to resolve into hopeful pattern",
+          "transitions": "slide",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "3",
+          "timing": "14-21",
+          "visuals": "Close-up on CrowdWisdom performance metrics: win rate, average return, total signals tracked, all time-stamped and attributable",
+          "narration": "Every signal is tracked, timestamped, and linked to its source for full accountability.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Soft tick for each verified signal recorded",
+          "music": "Hopeful melody strengthening",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "4",
+          "timing": "21-28",
+          "visuals": "Trader reviewing a specific signal's details: who submitted it, their conviction score, and the market context",
+          "narration": "See exactly who contributed what, with their conviction and expertise visible.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Soft interface clicks as details expand",
+          "music": "Melody becomes more confident",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "5",
+          "timing": "28-35",
+          "visuals": "Trader using CrowdWisdom signal as research input, making their own final decision with proper position sizing",
+          "narration": "Use the wisdom as research input, not as a guaranteed signal. You control your risk and execution.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Confident trade setup sounds, soft volume adjustment",
+          "music": "Steady, assured rhythm",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": false
+        },
+        {
+          "scene_id": "6",
+          "timing": "35-45",
+          "visuals": "CrowdWisdom logo with tagline and important disclaimer about research vs. advice",
+          "narration": "CrowdWisdom provides research tools, not financial advice. Your decisions, your risk, your results.",
+          "dialogue": "",
+          "text": "",
+          "sound": "Final confirmation tone",
+          "music": "Melody resolves and fades out",
+          "transitions": "fade",
+          "product_appearance": true,
+          "cta": true
+        }
+      ],
+      "narration": "Tired of signal services that vanish when their calls go wrong? Most services hide their results. CrowdWisdom believes in transparent, attributable performance. Every signal is tracked, timestamped, and linked to its source for full accountability. See exactly who contributed what, with their conviction and expertise visible. Use the wisdom as research input, not as a guaranteed signal. You control your risk and execution. CrowdWisdom provides research tools, not financial advice. Your decisions, your risk, your results.",
+      "visual_direction": "Start with trader frustration and bad signal; transition to transparent dashboard comparison; drill into signal attribution details; end with responsible trading mindset",
+      "sound_direction": "Frustrated notifications give way to clean attribution ticks and confident trade setup sounds",
+      "music_direction": "Low tension → resolving hopeful pattern → confident steady rhythm → resolving fade",
+      "minimal_text": "Your decisions, your risk, your results",
+      "cta": "Visit crowdwisdomtrading.com to learn more",
+      "duration": 45,
+      "evidence": [
+        "CrowdWisdom tracks every signal with timestamp and source attribution",
+        "Platform provides transparent performance metrics including win rate and average return",
+        "Users can see individual signal contributors with their conviction scores and expertise",
+        "Position sizing and execution control remains with the trader",
+        "Platform provides research tools, not financial advice or guaranteed signals"
+      ],
+      "source_fact_claims": [
+        "Every signal is tracked, timestamped, and linked to its source for full accountability (implied from CWT-BRAND-005 structured consensus requiring attribution)",
+        "Users can see individual signal contributors with their conviction scores and expertise (derived from CWT-METH-003 conviction factor)",
+        "Position sizing and execution control remains with the trader (CWT-METH-006 user control)",
+        "Platform provides research tools, not financial advice or guaranteed signals (risk/compliance requirement)"
+      ],
+      "creative_interpretation_claims": [
+        "Transparent performance dashboard as visualization of attributable tracking",
+        "Signal contributor details panel as representation of conviction and expertise visibility",
+        "Trader making final decision with position sizing as depiction of user control"
+      ],
+      "limitations": [
+        "Transparent tracking does not guarantee future signal accuracy",
+        "Seeing contributor expertise does not substitute for individual due diligence",
+        "Platform is for research; users must make independent execution decisions",
+        "No guarantees are made about signal performance or outcomes"
+      ],
+      "provenance": {
+        "CWT-METH-003": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "methodology_claim",
+          "verification_status": "Company-described; formulas not public"
+        },
+        "CWT-METH-006": {
+          "source_url": "https://www.crowdwisdomtrading.com/",
+          "claim_type": "platform_disclaimer",
+          "verification_status": "Public site statement"
+        }
+      }
+    }
+  ]
+}

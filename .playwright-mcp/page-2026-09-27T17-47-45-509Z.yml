@@ -1,0 +1,407 @@
+- generic [ref=f51e1]:
+  - generic [ref=f51e3]:
+    - navigation [ref=f51e6]:
+      - link [ref=f51e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f51e13]:
+        - generic [ref=f51e14]:
+          - button [ref=f51e521] [cursor=pointer]:
+            - generic [ref=f51e17]: Photos
+          - searchbox [ref=f51e522]
+          - button [ref=f51e26] [cursor=pointer]
+      - generic [ref=f51e30]:
+        - link [ref=f51e523] [cursor=pointer]:
+          - /url: /discover/
+          - generic [ref=f51e33]: Explore
+        - link [ref=f51e524] [cursor=pointer]:
+          - /url: /license/
+          - generic [ref=f51e37]: License
+        - button [ref=f51e39] [cursor=pointer]
+        - button [ref=f51e525] [cursor=pointer]:
+          - generic [ref=f51e43]: Join
+    - main [ref=f51e45]:
+      - separator [ref=f51e46]
+      - generic [ref=f51e47]:
+        - main [ref=f51e48]:
+          - separator [ref=f51e49]
+          - generic [ref=f51e50]:
+            - generic [ref=f51e51]:
+              - link [ref=f51e526] [cursor=pointer]:
+                - /url: /@gabby-k/
+              - generic [ref=f51e57]:
+                - link [ref=f51e528] [cursor=pointer]:
+                  - /url: /@gabby-k/
+                  - heading [level=5] [ref=f51e529]: Monstera Production
+                - paragraph [ref=f51e60]:
+                  - text: 7.7B views
+                  - generic [ref=f51e61]: •
+                  - text: 17M downloads
+            - generic [ref=f51e62]:
+              - link [ref=f51e530] [cursor=pointer]:
+                - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F9464299%2F9464299-uhd_2732_1440_30fps.mp4&external-id=9464299
+                - generic [ref=f51e67]: Edit in Canva
+              - generic [ref=f51e73]:
+                - button [ref=f51e74] [cursor=pointer]
+                - button [ref=f51e531] [cursor=pointer]:
+                  - generic [ref=f51e79]: "11"
+                - generic [ref=f51e83]:
+                  - link [ref=f51e532] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/9464299/
+                    - generic [ref=f51e85]: Free download
+                  - button [ref=f51e88] [cursor=pointer]
+          - separator [ref=f51e93]
+        - generic [ref=f51e94]:
+          - region [ref=f51e533]:
+            - generic:
+              - generic:
+                - generic:
+                  - button
+              - generic [ref=f51e108] [cursor=pointer]:
+                - slider [ref=f51e535]: "0"
+                - text: en 0:00
+              - generic [ref=f51e113]:
+                - button [ref=f51e536] [cursor=pointer]:
+                  - generic [ref=f51e122]:
+                    - generic [aria-hidden]:
+                      - generic: Play
+                - button [ref=f51e537]: 0:00 / 0:29
+                - button [ref=f51e538] [cursor=pointer]:
+                  - generic [ref=f51e126]:
+                    - generic [aria-hidden]: Playback rate
+                - button [ref=f51e539] [cursor=pointer]:
+                  - generic [ref=f51e134]:
+                    - generic [aria-hidden]:
+                      - generic: Enter fullscreen mode
+          - generic [ref=f51e136]:
+            - link [ref=f51e540] [cursor=pointer]:
+              - /url: /@gabby-k/
+              - generic [ref=f51e142]:
+                - heading [level=5] [ref=f51e542]:
+                  - generic [ref=f51e144]: Monstera Production
+                - paragraph [ref=f51e145]:
+                  - generic [ref=f51e146]: Russian Photographer and Videomaker bolovtsova@gmail.com
+            - button [ref=f51e543] [cursor=pointer]:
+              - generic [ref=f51e149]: Follow
+          - generic [ref=f51e154]:
+            - generic [ref=f51e156]:
+              - generic [ref=f51e158]:
+                - paragraph [ref=f51e159]: License
+                - link [ref=f51e544] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f51e161]: Free
+              - generic [ref=f51e164]:
+                - paragraph [ref=f51e165]: Dimensions
+                - paragraph [ref=f51e166]: 4096x2160
+              - generic [ref=f51e167]:
+                - paragraph [ref=f51e168]: Aspect Ratio
+                - paragraph [ref=f51e169]: 256:135
+              - generic [ref=f51e170]:
+                - paragraph [ref=f51e171]: Duration
+                - paragraph [ref=f51e172]: 30:29
+              - generic [ref=f51e173]:
+                - paragraph [ref=f51e174]: Date
+                - paragraph [ref=f51e175]: Sep 6, 2021
+              - generic [ref=f51e176]:
+                - paragraph [ref=f51e177]: Downloads
+                - paragraph [ref=f51e178]: 1.2K
+              - generic [ref=f51e179]:
+                - paragraph [ref=f51e180]: Views
+                - paragraph [ref=f51e181]: 299.6K
+              - generic [ref=f51e182]:
+                - paragraph [ref=f51e183]: Likes
+                - paragraph [ref=f51e184]: "11"
+            - generic [ref=f51e187]:
+              - button [ref=f51e545] [cursor=pointer]
+              - button [ref=f51e546] [cursor=pointer]
+              - link [ref=f51e547] [cursor=pointer]:
+                - /url: /report/?slug=focused-man-doing-paperwork-9464299
+          - generic [ref=f51e200]:
+            - paragraph [ref=f51e201]: Description
+            - heading [level=1] [ref=f51e548]: A pensive businessman highlights notes, deep in thought at his desk.
+          - separator [ref=f51e203]
+          - heading [level=3] [ref=f51e549]: More like this
+          - generic [ref=f51e206]:
+            - link [ref=f51e550] [cursor=pointer]:
+              - /url: /search/videos/man%20writing/
+              - generic [ref=f51e209]: Man Writing
+            - link [ref=f51e551] [cursor=pointer]:
+              - /url: /search/videos/black%20business%20man/
+              - generic [ref=f51e212]: Black Business Man
+            - link [ref=f51e552] [cursor=pointer]:
+              - /url: /search/videos/business%20man%20thinking/
+              - generic [ref=f51e215]: Business Man Thinking
+            - link [ref=f51e553] [cursor=pointer]:
+              - /url: /search/videos/african%20business/
+              - generic [ref=f51e218]: African Business
+            - link [ref=f51e554] [cursor=pointer]:
+              - /url: /search/videos/study%20video/
+              - generic [ref=f51e221]: Study Video
+            - link [ref=f51e555] [cursor=pointer]:
+              - /url: /search/videos/entrepreneur%20working/
+              - generic [ref=f51e224]: Entrepreneur Working
+            - link [ref=f51e556] [cursor=pointer]:
+              - /url: /search/videos/taking%20notes/
+              - generic [ref=f51e227]: Taking Notes
+            - link [ref=f51e557] [cursor=pointer]:
+              - /url: /search/videos/man%20studying/
+              - generic [ref=f51e230]: Man Studying
+            - link [ref=f51e558] [cursor=pointer]:
+              - /url: /search/videos/raw%20footage%20for%20editing%20practice/
+              - generic [ref=f51e233]: Raw Footage For Editing Practice
+            - link [ref=f51e559] [cursor=pointer]:
+              - /url: /search/videos/young%20professional/
+              - generic [ref=f51e236]: Young Professional
+            - link [ref=f51e560] [cursor=pointer]:
+              - /url: /search/videos/writing%20notes/
+              - generic [ref=f51e239]: Writing Notes
+            - link [ref=f51e561] [cursor=pointer]:
+              - /url: /search/videos/black%20man/
+              - generic [ref=f51e242]: Black Man
+            - link [ref=f51e562] [cursor=pointer]:
+              - /url: /search/videos/person%20writing/
+              - generic [ref=f51e245]: Person Writing
+            - link [ref=f51e563] [cursor=pointer]:
+              - /url: /search/videos/man%20working%20hard/
+              - generic [ref=f51e248]: Man Working Hard
+            - link [ref=f51e564] [cursor=pointer]:
+              - /url: /search/videos/office%20worker/
+              - generic [ref=f51e251]: Office Worker
+            - img [ref=f51e253] [cursor=pointer]
+          - generic [ref=f51e256]:
+            - generic [ref=f51e259]:
+              - article [ref=f51e262]:
+                - link [ref=f51e263] [cursor=pointer]:
+                  - /url: /video/man-holding-a-highlighter-while-thinking-9464313/
+              - article [ref=f51e274]:
+                - link [ref=f51e275] [cursor=pointer]:
+                  - /url: /video/a-lawyer-reading-a-document-8731305/
+              - generic [ref=f51e566]:
+                - generic [ref=f51e568]:
+                  - link [ref=f51e569] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f51e571] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f51e573] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f51e575] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - link [ref=f51e577] [cursor=pointer]:
+                  - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - paragraph [ref=f51e580]: Bring your ideas to life with Canva AI
+                - link [ref=f51e581] [cursor=pointer]:
+                  - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - generic [ref=f51e582]: Get started for free
+              - article [ref=f51e286]:
+                - link [ref=f51e287] [cursor=pointer]:
+                  - /url: /video/man-doing-paperwork-8731298/
+              - article [ref=f51e298]:
+                - link [ref=f51e299] [cursor=pointer]:
+                  - /url: /video/man-using-smartphone-while-thinking-8731289/
+              - article [ref=f51e310]:
+                - link [ref=f51e311] [cursor=pointer]:
+                  - /url: /video/a-businessman-looking-at-documents-9465173/
+              - article [ref=f51e322]:
+                - link [ref=f51e323] [cursor=pointer]:
+                  - /url: /video/people-brainstorming-at-the-office-9464653/
+              - article [ref=f51e334]:
+                - link [ref=f51e335] [cursor=pointer]:
+                  - /url: /video/people-discussing-something-8731438/
+              - article [ref=f51e346]:
+                - link [ref=f51e347] [cursor=pointer]:
+                  - /url: /video/man-holding-a-clipboard-while-talking-to-colleagues-9464312/
+              - article [ref=f51e358]:
+                - link [ref=f51e359] [cursor=pointer]:
+                  - /url: /video/man-reading-a-contract-8731208/
+              - article [ref=f51e370]:
+                - link [ref=f51e371] [cursor=pointer]:
+                  - /url: /video/a-woman-sitting-at-the-table-8371028/
+              - article [ref=f51e382]:
+                - link [ref=f51e383] [cursor=pointer]:
+                  - /url: /video/man-wearing-black-suit-writing-on-a-paper-using-his-blue-pen-10374974/
+              - article [ref=f51e394]:
+                - link [ref=f51e395] [cursor=pointer]:
+                  - /url: /video/a-man-sitting-in-the-office-7791924/
+            - button [ref=f51e584] [cursor=pointer]:
+              - generic [ref=f51e406]: Load More
+      - separator [ref=f51e408]
+    - contentinfo [ref=f51e409]:
+      - separator [ref=f51e410]
+      - generic [ref=f51e411]:
+        - generic [ref=f51e412]:
+          - heading [level=2] [ref=f51e585]: Where stories come together.
+          - generic [ref=f51e414]:
+            - link [ref=f51e586] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+              - generic [ref=f51e416]: Download on iOS
+            - link [ref=f51e587] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+              - generic [ref=f51e419]: Download on Android
+          - list [ref=f51e421]:
+            - listitem [ref=f51e422]:
+              - link [ref=f51e588] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f51e426]:
+              - link [ref=f51e589] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f51e430]:
+              - link [ref=f51e590] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f51e434]:
+              - link [ref=f51e591] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f51e438]:
+              - link [ref=f51e592] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f51e442]:
+              - link [ref=f51e593] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f51e446]:
+          - list [ref=f51e447]:
+            - heading [level=3] [ref=f51e594]: Pexels
+            - listitem [ref=f51e449]:
+              - link [ref=f51e595] [cursor=pointer]:
+                - /url: /
+                - text: Free Stock Photos
+            - listitem [ref=f51e451]:
+              - link [ref=f51e596] [cursor=pointer]:
+                - /url: /videos/
+                - text: Free Videos
+            - listitem [ref=f51e453]:
+              - link [ref=f51e597] [cursor=pointer]:
+                - /url: /popular-searches/
+                - text: Popular searches
+            - listitem [ref=f51e455]:
+              - link [ref=f51e598] [cursor=pointer]:
+                - /url: /discover/
+                - text: Collections
+            - listitem [ref=f51e457]:
+              - link [ref=f51e599] [cursor=pointer]:
+                - /url: /challenges/
+                - text: Challenges
+            - listitem [ref=f51e459]:
+              - link [ref=f51e600] [cursor=pointer]:
+                - /url: /leaderboard/
+                - text: Leaderboard
+            - listitem [ref=f51e461]:
+              - link [ref=f51e601] [cursor=pointer]:
+                - /url: /pro/
+                - text: Other plugins & apps
+          - list [ref=f51e463]:
+            - heading [level=3] [ref=f51e602]: Company
+            - listitem [ref=f51e465]:
+              - link [ref=f51e603] [cursor=pointer]:
+                - /url: /about/
+                - text: About
+            - listitem [ref=f51e467]:
+              - link [ref=f51e604] [cursor=pointer]:
+                - /url: /blog/
+                - text: Blog
+            - listitem [ref=f51e469]:
+              - link [ref=f51e605] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+                - text: Help Center
+            - listitem [ref=f51e471]:
+              - link [ref=f51e606] [cursor=pointer]:
+                - /url: /report/
+                - text: Report content
+            - listitem [ref=f51e473]:
+              - link [ref=f51e607] [cursor=pointer]:
+                - /url: /hero/
+                - text: Become a Hero
+            - listitem [ref=f51e475]:
+              - link [ref=f51e608] [cursor=pointer]:
+                - /url: /become-a-partner/
+                - text: Partner with Pexels
+            - listitem [ref=f51e477]:
+              - link [ref=f51e609] [cursor=pointer]:
+                - /url: /api/
+                - text: Image & Video API
+            - listitem [ref=f51e479]: Sign Up
+        - list [ref=f51e480]:
+          - listitem [ref=f51e481]:
+            - heading [level=3] [ref=f51e610]: Free Stock Photos
+          - listitem [ref=f51e483]:
+            - generic [ref=f51e485]:
+              - link [ref=f51e611] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+                - text: Black and white photography
+              - link [ref=f51e612] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+                - text: Happy birthday images
+              - link [ref=f51e613] [cursor=pointer]:
+                - /url: /search/videos/business/
+                - text: Free business videos
+              - link [ref=f51e614] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+                - text: Happy new year images
+              - link [ref=f51e615] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+                - text: Cool wallpapers
+              - link [ref=f51e616] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+                - text: Best HD wallpapers
+              - link [ref=f51e617] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+                - text: Galaxy wallpaper
+              - link [ref=f51e618] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+                - text: Lock screen wallpaper
+              - link [ref=f51e619] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+                - text: iPhone wallpaper
+              - link [ref=f51e620] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+                - text: 4K wallpaper
+              - link [ref=f51e621] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+                - text: Samsung wallpaper
+              - link [ref=f51e622] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+                - text: Love wallpaper
+              - link [ref=f51e623] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+                - text: Mobile wallpaper
+      - generic [ref=f51e501]:
+        - generic [ref=f51e502]: © 2026 Pexels
+        - generic [ref=f51e504]:
+          - link [ref=f51e624] [cursor=pointer]:
+            - /url: /terms-of-service/
+            - text: Terms of Use
+          - link [ref=f51e625] [cursor=pointer]:
+            - /url: /privacy-policy/
+            - text: Privacy Policy
+          - link [ref=f51e626] [cursor=pointer]:
+            - /url: /license/
+            - text: License
+          - link [ref=f51e627] [cursor=pointer]:
+            - /url: /imprint/
+            - text: Imprint
+          - link [ref=f51e628] [cursor=pointer]:
+            - /url: /cookies/
+            - text: Cookies Policy
+        - button [ref=f51e629] [cursor=pointer]:
+          - generic [ref=f51e514]: English
+      - separator [ref=f51e518]
+  - alert [ref=f51e519]
+  - dialog [active] [ref=f51e631]:
+    - generic [ref=f51e633]:
+      - generic [ref=f51e634]:
+        - generic [ref=f51e637]:
+          - generic [ref=f51e638]:
+            - heading "Say Thanks!" [level=4] [ref=f51e639]
+            - button [ref=f51e641] [cursor=pointer]
+          - paragraph [ref=f51e645]:
+            - text: Show some love to
+            - link "Monstera Production" [ref=f51e646] [cursor=pointer]:
+              - /url: /@3372733/
+            - text: by giving them a small donation.
+          - generic [ref=f51e648]:
+            - button "Follow" [ref=f51e650] [cursor=pointer]
+            - link [ref=f51e653] [cursor=pointer]:
+              - /url: https://www.instagram.com/attic_apartment
+        - button [ref=f51e658] [cursor=pointer]
+      - link [ref=f51e662] [cursor=pointer]:
+        - /url: https://www.canva.com/features/video-enhancer/?utm_campaign=postphoto%20download%20experiment&utm_medium=acquisitions&utm_source=pexels&utm_content=video%20enhancer
+        - generic [ref=f51e664]:
+          - heading "Nail down an aesthetic look with Video Enhancer" [level=2] [ref=f51e666]
+          - button "Enhance your video" [ref=f51e667]

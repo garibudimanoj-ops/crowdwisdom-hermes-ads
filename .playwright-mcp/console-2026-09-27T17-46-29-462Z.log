@@ -1,0 +1,166 @@
+[    9214ms] [WARNING] Translation key "meta.credit_text.video" is missing in namespace "medium" @ https://static.pexels.com/1/_next/static/chunks/pages/_app-f572b272ab92a919.js:0
+[    9451ms] [WARNING] Translation key "meta.credit_text.video" is missing in namespace "medium" @ https://static.pexels.com/1/_next/static/chunks/pages/_app-f572b272ab92a919.js:0
+[    9750ms] Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rh (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:44541)
+    at https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:107723
+    at oI (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:110467)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103431)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9750ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9752ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9752ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9755ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9755ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9756ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9756ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9758ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9758ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9758ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9759ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9759ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9760ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9760ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9762ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9763ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9765ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:50832)
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125365)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98314)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[    9766ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at i (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:125024)
+    at oD (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103371)
+    at oO (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:103241)
+    at oE (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:100012)
+    at ox (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:98567)
+    at x (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:1756)
+    at MessagePort.T (https://static.pexels.com/1/_next/static/chunks/framework-dfbc9f8340a4919a.js:1:2277)
+[   10551ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.pexels.com/en-us/api/v2/me:0
+[   10579ms] [WARNING] Translation key "meta.credit_text.video" is missing in namespace "medium" @ https://static.pexels.com/1/_next/static/chunks/pages/_app-f572b272ab92a919.js:0
+[   11161ms] [WARNING] Translation key "meta.credit_text.video" is missing in namespace "medium" @ https://static.pexels.com/1/vendor/sentry-8.34.0/bundle.tracing.min.js:1
+[   12228ms] [WARNING] Media Chrome: No style sheet found on style tag of JSHandle@node @ https://static.pexels.com/1/vendor/sentry-8.34.0/bundle.tracing.min.js:1
+[   14270ms] [WARNING] The resource https://static.pexels.com/1/fonts/CanvaSans-Medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pexels.com/video/focused-man-doing-paperwork-9464299/:0
+[   14270ms] [WARNING] The resource https://static.pexels.com/1/fonts/CanvaSans-Bold.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pexels.com/video/focused-man-doing-paperwork-9464299/:0
+[   14359ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://static.pexels.com/1/vendor/sentry-8.34.0/bundle.tracing.min.js:1
+[   14368ms] [ERROR] Not signed in with the identity provider. @ https://www.pexels.com/video/focused-man-doing-paperwork-9464299/:0
+[   16688ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://static.pexels.com/1/vendor/sentry-8.34.0/bundle.tracing.min.js:1
+[   21610ms] [WARNING] The resource https://static.pexels.com/1/fonts/CanvaSans-Medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pexels.com/video/focused-man-doing-paperwork-9464299/:0
+[   21611ms] [WARNING] The resource https://static.pexels.com/1/fonts/CanvaSans-Bold.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pexels.com/video/focused-man-doing-paperwork-9464299/:0

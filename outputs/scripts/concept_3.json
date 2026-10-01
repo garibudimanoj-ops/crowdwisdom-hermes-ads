@@ -1,0 +1,114 @@
+{
+  "concept_id": 3,
+  "track": "product_value",
+  "concept": {
+    "concept_id": 3,
+    "title": "From Noise to Execution-Ready Signal",
+    "target_icp": "Active traders seeking actionable, low-latency trade ideas backed by crowd consensus",
+    "hook": "Split screen: left side chaotic signal feed, right side clean CrowdWisdom execution panel",
+    "story": "A trader toggles between raw signal noise and CrowdWisdom filtered consensus, watches the confidence metric rise as aligned traders increase, then clicks Execute to send a pre-validated order to their broker",
+    "scenes": [
+      {
+        "scene_id": "1",
+        "timing": "0-7",
+        "visuals": "Split screen: left shows chaotic signal feed (flashing red/green arrows, conflicting text alerts), right shows blank CrowdWisdom panel with only axes and labels",
+        "narration": "Raw signals overwhelm with noise and contradiction.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Left: dissonant electronic glitches; right: silence",
+        "music": "Fragmented, tense electronic motif",
+        "transitions": "cut",
+        "product_appearance": false,
+        "cta": false
+      },
+      {
+        "scene_id": "2",
+        "timing": "7-14",
+        "visuals": "Trader's hand moves to toggle view; right panel now shows CrowdWisdom consensus gauge (needle at 40%) and arrow pointing slightly up",
+        "narration": "They switch to CrowdWisdom's filtered view.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Soft toggle click; left glitches fade slightly",
+        "music": "Motif begins to cohere",
+        "transitions": "fade",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "3",
+        "timing": "14-21",
+        "visuals": "Close-up of CrowdWisdom gauge: needle rising to 60%, 80% as more traders align; consensus arrow strengthens",
+        "narration": "As the crowd aligns, confidence builds.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Harmonic tone rises in pitch and purity",
+        "music": "Motif becomes more cohesive and uplifting",
+        "transitions": "fade",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "4",
+        "timing": "21-28",
+        "visuals": "Trader's finger hovers over the 'Execute' button, which glows green; left panel still noisy but ignored",
+        "narration": "At 90% confidence, the path is clear to trade.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Left glitches diminish; right tone peaks",
+        "music": "Uplifting melody swells",
+        "transitions": "cut",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "5",
+        "timing": "28-35",
+        "visuals": "Button press: confirmation screen shows order details (symbol, amount, pre-validated) and a checkmark",
+        "narration": "One click sends a pre-validated order to their broker.",
+        "dialogue": "",
+        "text": "",
+        "sound": "Soft confirmation click",
+        "music": "Melody resolves into a uplifting chord",
+        "transitions": "fade",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "6",
+        "timing": "35-42",
+        "visuals": "CrowdWisdom logo and text: 'Consensus that you can trade on' appears",
+        "narration": "",
+        "dialogue": "",
+        "text": "Consensus that you can trade on",
+        "sound": "Soft chime",
+        "music": "Chord holds, then begins to fade",
+        "transitions": "fade",
+        "product_appearance": true,
+        "cta": false
+      },
+      {
+        "scene_id": "7",
+        "timing": "42-45",
+        "visuals": "CTA button: 'Trade the consensus' pulses at bottom right",
+        "narration": "",
+        "dialogue": "",
+        "text": "Trade the consensus",
+        "sound": "Final soft pulse",
+        "music": "Fades to silence",
+        "transitions": "none",
+        "product_appearance": true,
+        "cta": true
+      }
+    ],
+    "narration": "When the crowd agrees, the path forward is clear. CrowdWisdom turns consensus into execution-ready trades",
+    "visual_direction": "Left side saturated, jittery visual noise; right side cool-toned interface with gauge, consensus arrow, and one-click execution",
+    "sound_direction": "Left: dissonant electronic glitches; right: harmonic tone that rises with confidence, concluding with a soft confirmation click",
+    "music_direction": "Evolving motif: starts fragmented, resolves into a cohesive, uplifting melody as consensus builds",
+    "minimal_text": "Consensus that you can trade on",
+    "cta": "Trade the consensus",
+    "duration": 45,
+    "evidence": [
+      "Based on ad promise of accounts starting at $36 and ICP of traders seeking reliable signals; value proposition aligns with structured crowd intelligence and filtering"
+    ]
+  }
+}
